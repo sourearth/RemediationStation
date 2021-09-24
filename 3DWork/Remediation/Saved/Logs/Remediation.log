@@ -2853,3 +2853,52 @@ Script Stack (0 frames):
 [2021.09.24-10.24.06:866][179]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.24-10.24.06:866][179]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2021.09.24-10.24.06:866][179]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.24-10.31.56:180][601]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.09.24-10.32.01:503][220]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.24-10.34.26:191][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.09.24-10.34.26:193][574]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.006
+[2021.09.24-10.34.26:193][574]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RemediationStation/TheDude] ([1] browsable assets)...
+[2021.09.24-10.34.26:212][574]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/RemediationStation/TheDude.TheDude]
+[2021.09.24-10.34.26:212][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/RemediationStation/TheDude]
+[2021.09.24-10.34.26:244][574]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/TheDude_Auto27214E883495ADD3940100989629F3745.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Autosaves/Game/RemediationStation/TheDude_Auto2.uasset'
+[2021.09.24-10.34.26:245][574]LogFileHelpers: Auto-saving content packages took 0.052
+[2021.09.24-10.36.33:459][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheDude)
+[2021.09.24-10.36.33:940][704]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.24-10.36.49:137][462]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.09.24-10.36.49:199][462]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_DefaultD5C4E8EA4652A9C10FF5E9B438067BD0.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.24-10.36.49:212][462]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltDataE36E1A4E48C42A550843338A81006EAB.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.24-10.36.49:222][462]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.24-10.36.49:222][462]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.24-10.36.49:222][462]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.24-11.04.33:326][620]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.24-11.13.21:336][160]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Louise\3D\Dude2.obj)
+[2021.09.24-11.13.21:342][160]LogFbx: Loading FBX Scene from D:\Louise\3D\Dude2.obj
+[2021.09.24-11.13.21:377][160]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.24-11.13.27:395][160]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.09.24-11.13.27:424][160]LogStaticMesh: Building static mesh Dude2...
+[2021.09.24-11.13.27:496][160]LogStaticMesh: Built static mesh [0.07s] /Game/RemediationStation/Dude2.Dude2
+[2021.09.24-11.13.27:530][160]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.09.24-11.13.29:592][372]LogSlate: Window 'Message Log' being destroyed
+[2021.09.24-11.13.29:597][372]LogSlate: Window 'Message Log' being destroyed
+[2021.09.24-11.13.30:401][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheDude)
+[2021.09.24-11.13.45:154][809]LogEditorFactories: Performing atomic reimport of [D:/Louise/3D/Dude2.fbx]
+[2021.09.24-11.13.45:175][809]LogFbx: Loading FBX Scene from D:/Louise/3D/Dude2.fbx
+[2021.09.24-11.13.45:181][809]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.24-11.13.45:272][809]LogStaticMesh: Building static mesh Dude2...
+[2021.09.24-11.13.45:316][809]LogStaticMesh: Built static mesh [0.04s] /Game/RemediationStation/Dude2.Dude2
+[2021.09.24-11.13.46:909][809]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2021.09.24-11.13.46:917][809]LogEditorFactories: -- imported successfully
+[2021.09.24-11.13.46:920][809]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.09.24-11.13.55:357][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.09.24-11.13.55:422][742]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_DefaultA63DF2A24FD924C94F058E91543F41BB.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.24-11.13.55:435][742]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData2789287449C4C827A8B3C1BD9E9EC791.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.24-11.13.55:443][742]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.24-11.13.55:443][742]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.24-11.13.55:443][742]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.24-11.14.08:071][328]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.24-11.14.52:491][759]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.24-11.14.52:553][759]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default3031744145D176C791E3C3A45031BCFE.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.24-11.14.52:565][759]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData6AA52C924BA681DD0BF5F28961E5048C.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.24-11.14.52:573][759]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.24-11.14.52:573][759]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.24-11.14.52:573][759]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData

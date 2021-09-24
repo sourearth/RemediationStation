@@ -2791,3 +2791,65 @@ Script Stack (0 frames):
 [2021.09.24-09.59.08:846][766]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default9B09FDEA4789E6AA72023EB4E2CD5123.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
 [2021.09.24-09.59.08:860][766]AssetCheck: New page: Asset Save: Minimal_Default
 [2021.09.24-09.59.08:860][766]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.24-10.02.10:667][860]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2021.09.24-10.02.11:591][966]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.24-10.02.20:761][ 52]Cmd: TRANSACTION UNDO
+[2021.09.24-10.02.20:761][ 52]LogEditorTransaction: Undo Create Actors
+[2021.09.24-10.02.20:761][ 52]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_4' invalid (24 verts, 0 indices).
+[2021.09.24-10.02.20:762][ 52]LogPhysics: Warning: Attempt to build physics data for /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.ModelComponent_4.BodySetup_0 when we are unable to.
+[2021.09.24-10.02.23:570][337]Cmd: EDIT CUT
+[2021.09.24-10.02.23:575][337]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2021.09.24-10.02.23:579][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.09.24-10.02.23:582][337]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.09.24-10.02.24:445][441]Cmd: TRANSACTION UNDO
+[2021.09.24-10.02.24:445][441]LogEditorTransaction: Undo Cut
+[2021.09.24-10.02.25:318][498]Cmd: TRANSACTION UNDO
+[2021.09.24-10.02.25:318][498]LogEditorTransaction: Undo Create Actors
+[2021.09.24-10.02.34:448][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.09.24-10.02.34:509][575]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default963A4D224FC711547B58C6BD52C5D5CD.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.24-10.02.34:520][575]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.09.24-10.02.34:520][575]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.24-10.22.17:194][322]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Louise\3D\TheDude.fbx)
+[2021.09.24-10.22.17:232][322]LogFbx: Loading FBX Scene from D:\Louise\3D\TheDude.fbx
+[2021.09.24-10.22.17:252][322]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.24-10.22.18:782][322]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.09.24-10.22.18:813][322]LogFbxMaterialImport: Display: Unable to find Texture file Nickz_humanMaleAverage.bmp
+[2021.09.24-10.22.18:814][322]LogMaterial: Display: Missing cached shader map for material defaultMat1, compiling. 
+[2021.09.24-10.22.18:822][322]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2021.09.24-10.22.18:822][322]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.09.24-10.22.18:822][322]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.09.24-10.22.18:822][322]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.09.24-10.22.18:822][322]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.09.24-10.22.18:822][322]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.09.24-10.22.18:822][322]LogFbx: Display: Triangulating static mesh TheDude
+[2021.09.24-10.22.19:314][322]LogStaticMesh: Building static mesh TheDude...
+[2021.09.24-10.22.19:519][322]LogStaticMesh: Built static mesh [0.20s] /Game/RemediationStation/TheDude.TheDude
+[2021.09.24-10.22.19:599][322]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.09.24-10.22.21:228][393]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.24-10.22.21:691][445]LogSlate: Window 'Message Log' being destroyed
+[2021.09.24-10.22.21:694][445]LogSlate: Window 'Message Log' being destroyed
+[2021.09.24-10.22.22:769][555]LogActorFactory: Actor Factory created TheDude
+[2021.09.24-10.22.25:034][819]LogActorFactory: Actor Factory created TheDude
+[2021.09.24-10.22.25:587][880]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.24-10.22.38:660][390]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.24-10.22.51:355][869]Cmd: DELETE
+[2021.09.24-10.22.51:357][869]Cmd: ACTOR DELETE
+[2021.09.24-10.22.51:362][869]LogEditorActor: Deleted Actor: Brush
+[2021.09.24-10.22.51:367][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.09.24-10.22.51:373][869]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.09.24-10.22.52:049][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheDude)
+[2021.09.24-10.23.23:721][529]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.09.24-10.23.42:335][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheDude)
+[2021.09.24-10.23.49:594][428]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.24-10.23.56:627][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.09.24-10.23.56:689][257]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default6CB869B24F43FF3C20A8B78F4D55BC3D.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.24-10.23.56:700][257]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.09.24-10.23.56:701][257]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.24-10.24.01:672][792]LogTexture: Display: Building textures: NewReflectionComponentTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2021.09.24-10.24.01:686][792]LogTexture: Display: Building textures: NewReflectionComponentTexture8D91C9AE4C6B8D628CDA3C848426284A (BGRA8, 128X128)
+[2021.09.24-10.24.06:778][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.09.24-10.24.06:840][179]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default7FA372874C8954F0FA2E1AB17DC69FAA.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.24-10.24.06:857][179]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData6A57DAAE4212C9EB23FF1F988D44321C.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.24-10.24.06:866][179]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.24-10.24.06:866][179]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.24-10.24.06:866][179]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData

@@ -4761,3 +4761,293 @@ Script Stack (0 frames):
 [2021.09.24-12.22.05:143][678]MaterialEditorStats: Base pass vertex shader: 42 instructions
 [2021.09.24-12.22.05:143][678]MaterialEditorStats: Texture samplers: 3/16
 [2021.09.24-12.22.05:143][678]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.24-12.25.50:666][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.09.24-12.25.50:727][380]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default4B38961D444BFDC27BCCCF9749BB9861.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.24-12.25.50:740][380]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltDataFBEE5D33432E49F6A8A478B1E6EB86DA.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.24-12.25.50:749][380]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.24-12.25.50:750][380]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.24-12.25.50:750][380]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.24-12.26.41:650][818]LogMaterialEditor: Saving and Compiling material M_Abyss
+[2021.09.24-12.26.41:683][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/Materials/M_Abyss" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset" SILENT=true
+[2021.09.24-12.26.41:690][818]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/M_Abyss5F9DE4A741AB1B2A4D352D82789CC590.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset'
+[2021.09.24-12.26.41:699][818]AssetCheck: New page: Asset Save: M_Abyss
+[2021.09.24-12.26.41:699][818]LogContentValidation: Display: Validating Material /Game/RemediationStation/Materials/M_Abyss.M_Abyss
+[2021.09.24-12.29.24:998][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.09.24-12.29.25:060][  1]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default2BA5FBF149EE615A92BF0BA51143AA6A.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.24-12.29.25:084][  1]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData23CD963B4A8C6B74D261F7A7410ECBCE.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.24-12.29.25:093][  1]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.24-12.29.25:093][  1]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.24-12.29.25:093][  1]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.24-12.29.33:529][869]LogMaterialEditor: Saving and Compiling material M_Abyss
+[2021.09.24-12.29.33:542][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/Materials/M_Abyss" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset" SILENT=true
+[2021.09.24-12.29.33:545][869]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/M_Abyss3124D0C84872DBABCC071B990656547A.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset'
+[2021.09.24-12.29.33:553][869]AssetCheck: New page: Asset Save: M_Abyss
+[2021.09.24-12.29.33:553][869]LogContentValidation: Display: Validating Material /Game/RemediationStation/Materials/M_Abyss.M_Abyss
+[2021.09.24-12.56.14:808][ 83]LogMaterialEditor: Saving and Compiling material M_Abyss
+[2021.09.24-12.56.14:818][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/Materials/M_Abyss" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset" SILENT=true
+[2021.09.24-12.56.14:821][ 83]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/M_AbyssC8630E84482483B71B4708BCEBD6D655.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset'
+[2021.09.24-12.56.14:830][ 83]AssetCheck: New page: Asset Save: M_Abyss
+[2021.09.24-12.56.14:831][ 83]LogContentValidation: Display: Validating Material /Game/RemediationStation/Materials/M_Abyss.M_Abyss
+[2021.09.24-13.15.00:805][ 42]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.09.24-13.15.25:186][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.09.24-13.15.25:257][598]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default8DFF84E345C95508D2B42EA61935457B.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.24-13.15.25:271][598]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData95DAD35D40CCF9FAEB75ED97A04FC4C6.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.24-13.15.25:281][598]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.24-13.15.25:281][598]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.24-13.15.25:281][598]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.24-13.22.55:429][343]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.09.24-13.23.11:174][954]LogEditorFactories: Performing atomic reimport of [D:/Louise/3D/Dude2.fbx]
+[2021.09.24-13.23.11:205][954]LogFbx: Loading FBX Scene from D:/Louise/3D/Dude2.fbx
+[2021.09.24-13.23.11:235][954]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.24-13.23.11:793][954]LogStaticMesh: Building static mesh Dude2...
+[2021.09.24-13.23.12:144][954]LogStaticMesh: Built static mesh [0.35s] /Game/RemediationStation/Dude2.Dude2
+[2021.09.24-13.23.12:335][954]LogEditorFactories: -- imported successfully
+[2021.09.24-13.23.12:342][954]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.09.24-13.23.14:840][115]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.24-13.23.25:985][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.09.24-13.23.26:048][247]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default3A569AEA476227AB1CAD62841B7D8828.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.24-13.23.26:062][247]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData16CE1CEF46A740937FBDF983C52A5228.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.24-13.23.26:082][247]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.24-13.23.26:083][247]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.24-13.23.26:083][247]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.24-13.24.11:322][840]Cmd: DELETE
+[2021.09.24-13.24.11:322][840]Cmd: ACTOR DELETE
+[2021.09.24-13.24.11:326][840]LogEditorActor: Deleted Actor: Emitter
+[2021.09.24-13.24.11:330][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.09.24-13.24.11:333][840]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.09.24-13.24.23:209][ 23]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.24-13.24.26:179][324]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Ambient_Dust)
+[2021.09.24-13.24.28:341][542]Cmd: DELETE
+[2021.09.24-13.24.28:341][542]Cmd: ACTOR DELETE
+[2021.09.24-13.24.28:345][542]LogEditorActor: Deleted Actor: Emitter
+[2021.09.24-13.24.28:349][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.09.24-13.24.28:351][542]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.09.24-13.24.36:399][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.09.24-13.24.36:459][468]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_DefaultEAB312614D13C3129B377781C9B43C52.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.24-13.24.36:473][468]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltDataA511BB114BB5C44AE17C19AA1665A88D.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.24-13.24.36:482][468]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.24-13.24.36:482][468]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.24-13.24.36:482][468]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.24-13.25.02:465][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.09.24-13.25.02:526][408]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default949EEC8A4F6AF19426712390DFA7A06B.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.24-13.25.02:538][408]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltDataFD59FFDE48A6F736CE694592E3C07D39.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.24-13.25.02:546][408]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.24-13.25.02:546][408]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.24-13.25.02:546][408]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.24-13.25.11:991][447]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.24-13.25.11:998][447]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.09.24-13.25.11:998][447]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.09.24-13.25.11:998][447]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.09.24-13.25.11:998][447]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.09.24-13.25.11:998][447]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.09.24-13.25.11:998][447]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.09.24-13.25.11:998][447]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.09.24-13.25.11:998][447]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.09.24-13.25.13:270][519]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.09.24-13.25.13:862][547]MaterialEditorStats: Base pass shader: 155 instructions
+[2021.09.24-13.25.13:863][547]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 223 instructions
+[2021.09.24-13.25.13:863][547]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-13.25.13:863][547]MaterialEditorStats: Texture samplers: 3/16
+[2021.09.24-13.25.13:863][547]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.24-13.25.14:449][614]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.24-13.25.14:457][614]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.09.24-13.25.14:457][614]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.09.24-13.25.14:457][614]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.09.24-13.25.14:457][614]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.09.24-13.25.14:457][614]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.09.24-13.25.14:457][614]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.09.24-13.25.14:457][614]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.09.24-13.25.14:457][614]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.09.24-13.25.14:462][614]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.24-13.25.15:150][638]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.09.24-13.25.15:150][638]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.09.24-13.25.15:562][650]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.09.24-13.25.15:635][653]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.09.24-13.25.15:635][653]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.09.24-13.25.15:727][657]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.09.24-13.25.15:780][659]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.09.24-13.25.15:780][659]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.09.24-13.25.16:108][669]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.09.24-13.25.16:743][699]MaterialEditorStats: Base pass shader: 216 instructions
+[2021.09.24-13.25.16:744][699]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 284 instructions
+[2021.09.24-13.25.16:744][699]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-13.25.16:744][699]MaterialEditorStats: Texture samplers: 3/16
+[2021.09.24-13.25.16:744][699]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.24-13.25.22:232][273]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.24-13.25.22:239][273]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.09.24-13.25.22:239][273]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.09.24-13.25.22:239][273]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.09.24-13.25.22:239][273]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.09.24-13.25.22:239][273]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.09.24-13.25.22:239][273]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.09.24-13.25.22:239][273]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.09.24-13.25.22:239][273]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.09.24-13.25.22:934][296]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.09.24-13.25.23:447][320]MaterialEditorStats: Base pass shader: 216 instructions
+[2021.09.24-13.25.23:447][320]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 284 instructions
+[2021.09.24-13.25.23:447][320]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-13.25.23:447][320]MaterialEditorStats: Texture samplers: 3/16
+[2021.09.24-13.25.23:447][320]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.24-13.25.26:413][657]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.24-13.25.26:425][657]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.09.24-13.25.26:425][657]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.09.24-13.25.26:425][657]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.09.24-13.25.26:425][657]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.09.24-13.25.26:425][657]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.09.24-13.25.26:425][657]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.09.24-13.25.26:425][657]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.09.24-13.25.26:425][657]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.09.24-13.25.26:432][657]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.24-13.25.27:091][680]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.09.24-13.25.27:121][681]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.09.24-13.25.27:514][694]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.09.24-13.25.27:614][698]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.09.24-13.25.27:614][698]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2021.09.24-13.25.27:690][701]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.09.24-13.25.27:715][702]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.09.24-13.25.27:740][703]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.09.24-13.25.28:061][713]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.09.24-13.25.28:701][745]MaterialEditorStats: Base pass shader: 216 instructions
+[2021.09.24-13.25.28:701][745]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 284 instructions
+[2021.09.24-13.25.28:701][745]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-13.25.28:701][745]MaterialEditorStats: Texture samplers: 3/16
+[2021.09.24-13.25.28:701][745]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.24-13.25.30:231][915]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.24-13.25.30:252][916]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.09.24-13.25.30:252][916]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.09.24-13.25.30:252][916]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.09.24-13.25.30:252][916]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.09.24-13.25.30:252][916]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.09.24-13.25.30:252][916]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.09.24-13.25.30:252][916]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.09.24-13.25.30:252][916]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.09.24-13.25.30:923][940]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.09.24-13.25.31:459][965]MaterialEditorStats: Base pass shader: 216 instructions
+[2021.09.24-13.25.31:459][965]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 284 instructions
+[2021.09.24-13.25.31:459][965]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-13.25.31:459][965]MaterialEditorStats: Texture samplers: 3/16
+[2021.09.24-13.25.31:459][965]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.24-13.25.32:000][ 28]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.24-13.25.32:013][ 28]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.24-13.25.32:034][ 29]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.09.24-13.25.32:034][ 29]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.09.24-13.25.32:034][ 29]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.09.24-13.25.32:034][ 29]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.09.24-13.25.32:034][ 29]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.09.24-13.25.32:034][ 29]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.09.24-13.25.32:034][ 29]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.09.24-13.25.32:034][ 29]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.09.24-13.25.32:738][ 54]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.09.24-13.25.33:178][ 75]MaterialEditorStats: Base pass shader: 155 instructions
+[2021.09.24-13.25.33:178][ 75]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 223 instructions
+[2021.09.24-13.25.33:178][ 75]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-13.25.33:178][ 75]MaterialEditorStats: Texture samplers: 3/16
+[2021.09.24-13.25.33:178][ 75]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.24-13.25.35:415][323]LogMaterialEditor: Saving and Compiling material M_Abyss
+[2021.09.24-13.25.37:583][323]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.24-13.25.37:624][323]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.09.24-13.25.37:624][323]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.09.24-13.25.37:624][323]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.09.24-13.25.37:624][323]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.09.24-13.25.37:624][323]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.09.24-13.25.37:624][323]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.09.24-13.25.37:624][323]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.09.24-13.25.37:624][323]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.09.24-13.25.37:638][323]LogMaterial: Display: Missing cached shader map for material M_Abyss, compiling. 
+[2021.09.24-13.25.37:660][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.09.24-13.25.37:673][323]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.24-13.25.38:236][323]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 15
+[2021.09.24-13.25.38:236][323]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2021.09.24-13.25.38:752][323]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.09.24-13.25.38:752][323]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.09.24-13.25.38:752][323]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.09.24-13.25.38:752][323]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.09.24-13.25.38:752][323]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.09.24-13.25.38:752][323]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.09.24-13.25.38:752][323]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.09.24-13.25.38:752][323]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.09.24-13.25.38:752][323]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.09.24-13.25.38:758][323]TextureStreamingBuild: Display: Compiling optional shaders took 1.091 seconds.
+[2021.09.24-13.25.38:766][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.09.24-13.25.39:909][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/Materials/M_Abyss" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset" SILENT=true
+[2021.09.24-13.25.39:926][323]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/M_Abyss4A49E4BB43C5CB7647F01EBA6A187782.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset'
+[2021.09.24-13.25.39:962][323]AssetCheck: New page: Asset Save: M_Abyss
+[2021.09.24-13.25.39:962][323]LogContentValidation: Display: Validating Material /Game/RemediationStation/Materials/M_Abyss.M_Abyss
+[2021.09.24-13.25.39:963][323]MaterialEditorStats: Base pass shader: 155 instructions
+[2021.09.24-13.25.39:963][323]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 223 instructions
+[2021.09.24-13.25.39:963][323]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-13.25.39:963][323]MaterialEditorStats: Texture samplers: 4/16
+[2021.09.24-13.25.39:963][323]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.24-13.25.41:764][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock3)
+[2021.09.24-13.25.45:383][870]Cmd: TRANSACTION UNDO
+[2021.09.24-13.25.45:383][870]LogEditorTransaction: Undo Move Actors
+[2021.09.24-13.25.45:390][870]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.24-13.25.45:403][870]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.09.24-13.25.45:403][870]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.09.24-13.25.45:403][870]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.09.24-13.25.45:403][870]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.09.24-13.25.45:403][870]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.09.24-13.25.45:403][870]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.09.24-13.25.45:403][870]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.09.24-13.25.45:403][870]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.09.24-13.25.46:051][880]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.09.24-13.25.46:516][899]MaterialEditorStats: Base pass shader: 155 instructions
+[2021.09.24-13.25.46:516][899]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 223 instructions
+[2021.09.24-13.25.46:516][899]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-13.25.46:516][899]MaterialEditorStats: Texture samplers: 3/16
+[2021.09.24-13.25.46:516][899]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.24-13.25.48:516][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.09.24-13.25.48:578][ 89]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default509D1682494BA4BA3DD34F828BEDDDA6.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.24-13.25.48:591][ 89]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltDataD044441545E5DA4A00DCA6BAD20C5E4B.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.24-13.25.48:598][ 89]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.24-13.25.48:598][ 89]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.24-13.25.48:598][ 89]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.24-13.25.52:943][517]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.24-13.26.46:099][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.09.24-13.26.46:161][ 22]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default8B34CE5E4EA54F842632A09231F1DD69.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.24-13.26.46:175][ 22]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData24FDE0AD4E31626BF151B29AC7F28EA5.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.24-13.26.46:196][ 22]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.24-13.26.46:196][ 22]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.24-13.26.46:196][ 22]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.24-13.26.47:032][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.09.24-13.26.47:092][ 85]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default5CC9C93749BAF72EC706D8921EEFADE1.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.24-13.26.47:105][ 85]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData778F4911463F3D73EAD1B981614D5263.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.24-13.26.47:124][ 85]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.24-13.26.47:124][ 85]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.24-13.26.47:124][ 85]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.24-13.26.50:481][414]LogMaterialEditor: Saving and Compiling material M_Abyss
+[2021.09.24-13.26.50:917][414]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.24-13.26.50:957][414]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.09.24-13.26.50:957][414]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.09.24-13.26.50:957][414]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.09.24-13.26.50:957][414]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.09.24-13.26.50:957][414]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.09.24-13.26.50:957][414]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.09.24-13.26.50:957][414]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.09.24-13.26.50:957][414]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.09.24-13.26.50:966][414]LogMaterial: Display: Missing cached shader map for material M_Abyss, compiling. 
+[2021.09.24-13.26.50:990][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.09.24-13.26.51:007][414]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.24-13.26.52:132][414]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 15
+[2021.09.24-13.26.52:132][414]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2021.09.24-13.26.52:132][414]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.09.24-13.26.52:132][414]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.09.24-13.26.52:132][414]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2021.09.24-13.26.52:352][414]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.09.24-13.26.52:352][414]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.09.24-13.26.52:352][414]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.09.24-13.26.52:352][414]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2021.09.24-13.26.52:352][414]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.09.24-13.26.52:352][414]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.09.24-13.26.52:357][414]TextureStreamingBuild: Display: Compiling optional shaders took 1.357 seconds.
+[2021.09.24-13.26.52:364][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.09.24-13.26.52:991][414]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.09.24-13.26.53:697][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/Materials/M_Abyss" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset" SILENT=true
+[2021.09.24-13.26.53:703][414]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/M_Abyss0DF5B4544A32CAD7EB6CDCAAABDAF9F6.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset'
+[2021.09.24-13.26.53:749][414]AssetCheck: New page: Asset Save: M_Abyss
+[2021.09.24-13.26.53:749][414]LogContentValidation: Display: Validating Material /Game/RemediationStation/Materials/M_Abyss.M_Abyss
+[2021.09.24-13.26.53:750][414]MaterialEditorStats: Base pass shader: 155 instructions
+[2021.09.24-13.26.53:750][414]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 223 instructions
+[2021.09.24-13.26.53:750][414]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-13.26.53:750][414]MaterialEditorStats: Texture samplers: 4/16
+[2021.09.24-13.26.53:750][414]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)

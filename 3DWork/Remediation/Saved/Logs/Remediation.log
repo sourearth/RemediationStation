@@ -3438,3 +3438,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.27-10.55.03:654][131]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.27-10.55.03:654][131]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2021.09.27-10.55.03:654][131]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.27-10.57.14:090][223]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)

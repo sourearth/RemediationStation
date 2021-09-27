@@ -3285,3 +3285,136 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.27-14.42.45:133][333]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.27-14.42.45:133][333]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2021.09.27-14.42.45:133][333]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.27-14.48.22:343][492]LogEditorViewport: Clicking Background
+[2021.09.27-14.48.29:422][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.09.27-14.48.29:492][306]LogSavePackage: Moving 'D:/LC/RemediationStation/3DWork/Remediation/Saved/Minimal_Default52C977BD42C001168D7612988689E953.tmp' to 'D:/LC/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.27-14.48.29:668][306]LogSavePackage: Moving 'D:/LC/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltDataBD50E37148E9A5DD108A26920073E18C.tmp' to 'D:/LC/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.27-14.48.29:678][306]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.27-14.48.29:678][306]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.27-14.48.29:678][306]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.27-14.55.59:230][709]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.27-14.56.23:683][486]Cmd: STAT GPU
+[2021.09.27-14.56.24:052][511]LogStats: Display: There is no thread with id: 4072. Please add thread metadata for this thread.
+[2021.09.27-14.56.24:094][516]LogStats: Display: There is no thread with id: 13784. Please add thread metadata for this thread.
+[2021.09.27-14.56.24:119][519]LogStats: Display: There is no thread with id: 2584. Please add thread metadata for this thread.
+[2021.09.27-14.56.24:161][524]LogStats: Display: There is no thread with id: 1908. Please add thread metadata for this thread.
+[2021.09.27-14.56.24:177][526]LogStats: Display: There is no thread with id: 9188. Please add thread metadata for this thread.
+[2021.09.27-14.56.24:202][529]LogStats: Display: There is no thread with id: 18652. Please add thread metadata for this thread.
+[2021.09.27-14.56.24:295][540]LogStats: Display: There is no thread with id: 7284. Please add thread metadata for this thread.
+[2021.09.27-14.56.24:328][544]LogStats: Display: There is no thread with id: 8880. Please add thread metadata for this thread.
+[2021.09.27-14.56.24:371][549]LogStats: Display: There is no thread with id: 19784. Please add thread metadata for this thread.
+[2021.09.27-14.56.24:464][560]LogStats: Display: There is no thread with id: 2276. Please add thread metadata for this thread.
+[2021.09.27-14.56.24:482][562]LogStats: Display: There is no thread with id: 13336. Please add thread metadata for this thread.
+[2021.09.27-14.56.24:580][573]LogStats: Display: There is no thread with id: 20072. Please add thread metadata for this thread.
+[2021.09.27-14.56.24:633][579]LogStats: Display: There is no thread with id: 18100. Please add thread metadata for this thread.
+[2021.09.27-14.56.24:779][591]LogStats: Display: There is no thread with id: 13444. Please add thread metadata for this thread.
+[2021.09.27-14.56.24:840][597]LogStats: Display: There is no thread with id: 9012. Please add thread metadata for this thread.
+[2021.09.27-14.56.24:889][602]LogStats: Display: There is no thread with id: 2220. Please add thread metadata for this thread.
+[2021.09.27-14.56.25:016][617]LogStats: Display: There is no thread with id: 16908. Please add thread metadata for this thread.
+[2021.09.27-14.56.25:100][627]LogStats: Display: There is no thread with id: 11160. Please add thread metadata for this thread.
+[2021.09.27-14.56.25:140][632]LogStats: Display: There is no thread with id: 5036. Please add thread metadata for this thread.
+[2021.09.27-14.56.25:182][637]LogStats: Display: There is no thread with id: 3080. Please add thread metadata for this thread.
+[2021.09.27-14.56.25:199][639]LogStats: Display: There is no thread with id: 9192. Please add thread metadata for this thread.
+[2021.09.27-14.56.25:501][675]LogStats: Display: There is no thread with id: 10428. Please add thread metadata for this thread.
+[2021.09.27-14.56.25:518][677]LogStats: Display: There is no thread with id: 18136. Please add thread metadata for this thread.
+[2021.09.27-14.56.25:969][730]LogStats: Display: There is no thread with id: 748. Please add thread metadata for this thread.
+[2021.09.27-14.56.26:063][741]LogStats: Display: There is no thread with id: 9588. Please add thread metadata for this thread.
+[2021.09.27-14.56.26:103][746]LogStats: Display: There is no thread with id: 7564. Please add thread metadata for this thread.
+[2021.09.27-14.56.26:212][759]LogStats: Display: There is no thread with id: 13508. Please add thread metadata for this thread.
+[2021.09.27-14.56.26:803][829]LogStats: Display: There is no thread with id: 8472. Please add thread metadata for this thread.
+[2021.09.27-14.56.27:138][863]LogStats: Display: There is no thread with id: 8736. Please add thread metadata for this thread.
+[2021.09.27-14.56.27:190][869]LogStats: Display: There is no thread with id: 1956. Please add thread metadata for this thread.
+[2021.09.27-14.56.27:561][912]LogStats: Display: There is no thread with id: 11544. Please add thread metadata for this thread.
+[2021.09.27-14.56.28:381][  5]LogStats: Display: There is no thread with id: 8568. Please add thread metadata for this thread.
+[2021.09.27-14.56.58:516][439]Cmd: STAT GPU
+[2021.09.27-14.57.15:541][288]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.09.27-14.57.15:546][288]LogSlate: Window 'Editor Preferences' being destroyed
+[2021.09.27-14.57.20:977][917]Cmd: STAT FPS
+[2021.09.27-14.57.29:139][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.09.27-14.57.29:213][867]LogSavePackage: Moving 'D:/LC/RemediationStation/3DWork/Remediation/Saved/Minimal_DefaultDC85956F4E86B07D812894A18C15C84A.tmp' to 'D:/LC/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.27-14.57.29:380][867]LogSavePackage: Moving 'D:/LC/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData120AE2D94A1D7C5669F2588D1A8CD92B.tmp' to 'D:/LC/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.27-14.57.29:389][867]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.27-14.57.29:389][867]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.27-14.57.29:389][867]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.27-14.59.06:986][238]Cmd: TRANSACTION UNDO
+[2021.09.27-14.59.06:986][238]LogEditorTransaction: Undo Edit Altitude Scale
+[2021.09.27-14.59.23:223][ 92]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.27-15.00.06:534][192]Cmd: TRANSACTION UNDO
+[2021.09.27-15.00.06:534][192]LogEditorTransaction: Undo Edit Intensity
+[2021.09.27-15.00.06:945][204]Cmd: TRANSACTION UNDO
+[2021.09.27-15.00.06:945][204]LogEditorTransaction: Undo Edit Intensity
+[2021.09.27-15.00.40:420][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.09.27-15.00.40:490][134]LogSavePackage: Moving 'D:/LC/RemediationStation/3DWork/Remediation/Saved/Minimal_Default37D8D42A46AA7CD63A2737A63631E52F.tmp' to 'D:/LC/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.27-15.00.40:663][134]LogSavePackage: Moving 'D:/LC/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltDataEDEED9DE466172850EF3AEBEFE152DD0.tmp' to 'D:/LC/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.27-15.00.40:678][134]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.27-15.00.40:678][134]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.27-15.00.40:678][134]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.27-15.01.56:500][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.09.27-15.01.56:568][127]LogSavePackage: Moving 'D:/LC/RemediationStation/3DWork/Remediation/Saved/Minimal_DefaultA8B462CD4EAD90C86AE031B0B659A5A7.tmp' to 'D:/LC/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.27-15.01.56:737][127]LogSavePackage: Moving 'D:/LC/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData2A9C54694AD3E50E8B814DA0DF11EEB6.tmp' to 'D:/LC/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.27-15.01.56:748][127]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.27-15.01.56:748][127]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.27-15.01.56:748][127]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.27-15.02.24:201][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.09.27-15.02.24:268][384]LogSavePackage: Moving 'D:/LC/RemediationStation/3DWork/Remediation/Saved/Minimal_DefaultA04EED844BE076CC5A8E77B44936E426.tmp' to 'D:/LC/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.27-15.02.24:458][384]LogSavePackage: Moving 'D:/LC/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData2CC49634418D7AA418A28B9A10FF9EF1.tmp' to 'D:/LC/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.27-15.02.24:466][384]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.27-15.02.24:466][384]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.27-15.02.24:466][384]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.27-15.02.27:147][672]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/RemediationStation/Materials/M_AbyssDude.M_AbyssDude
+[2021.09.27-15.02.30:119][971]LogSlate: Window 'M_AbyssDude' being destroyed
+[2021.09.27-15.02.30:129][971]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-15.02.30:129][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-15.02.32:313][210]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/RemediationStation/Materials/M_Abyss.M_Abyss
+[2021.09.27-15.02.32:315][210]LogMaterial: Display: Missing cached shader map for material M_Abyss, compiling. 
+[2021.09.27-15.02.32:403][210]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.27-15.02.32:407][210]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.27-15.02.32:410][210]LogMaterial: Display: Missing cached shader map for material M_Abyss, compiling. 
+[2021.09.27-15.02.32:416][210]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.09.27-15.02.32:416][210]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2021.09.27-15.02.32:416][210]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.09.27-15.02.32:416][210]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2021.09.27-15.02.32:416][210]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.09.27-15.02.32:416][210]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.09.27-15.02.32:416][210]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2021.09.27-15.02.32:416][210]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.09.27-15.02.32:418][210]LogMaterial: Display: Missing cached shader map for material M_Abyss, compiling. 
+[2021.09.27-15.02.32:435][210]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.27-15.02.32:439][210]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.27-15.02.33:446][238]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2021.09.27-15.02.33:446][238]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2021.09.27-15.02.33:538][241]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2021.09.27-15.02.33:538][241]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 16
+[2021.09.27-15.02.33:644][245]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2021.09.27-15.02.33:645][245]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2021.09.27-15.02.33:673][246]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.09.27-15.02.33:673][246]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2021.09.27-15.02.34:359][264]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2021.09.27-15.02.34:451][267]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2021.09.27-15.02.34:678][274]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.09.27-15.02.34:830][278]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.09.27-15.02.34:863][279]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.09.27-15.02.34:897][280]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.09.27-15.02.34:959][282]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2021.09.27-15.02.35:055][285]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.09.27-15.02.35:422][294]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.09.27-15.02.35:495][296]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.09.27-15.02.35:495][296]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.09.27-15.02.36:272][348]MaterialEditorStats: Base pass shader: 162 instructions
+[2021.09.27-15.02.36:272][348]MaterialEditorStats: Base pass shader with Surface Lightmap: 183 instructions
+[2021.09.27-15.02.36:272][348]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 230 instructions
+[2021.09.27-15.02.36:272][348]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.09.27-15.02.36:272][348]MaterialEditorStats: Texture samplers: 5/16
+[2021.09.27-15.02.36:272][348]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.09.27-15.02.36:272][348]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.27-15.02.38:771][548]LogSlate: Window 'M_Abyss' being destroyed
+[2021.09.27-15.02.38:776][548]LogSlate: Window 'M_Abyss' being destroyed
+[2021.09.27-15.02.38:788][548]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-15.02.38:788][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-15.07.27:468][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.09.27-15.07.28:685][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.09.27-15.07.28:752][247]LogSavePackage: Moving 'D:/LC/RemediationStation/3DWork/Remediation/Saved/Minimal_Default301A867947824AF4FF49A1BD51FE21D5.tmp' to 'D:/LC/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.27-15.07.28:920][247]LogSavePackage: Moving 'D:/LC/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData81483E314E9BFAC6692817855716762B.tmp' to 'D:/LC/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.27-15.07.28:932][247]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.27-15.07.28:933][247]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.27-15.07.28:933][247]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default

@@ -3040,3 +3040,63 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.27-10.28.59:758][569]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.27-10.28.59:758][569]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2021.09.27-10.28.59:758][569]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.27-10.35.36:229][121]LogEditorFactories: Performing atomic reimport of [D:/lc/T_Rocks_BC.png]
+[2021.09.27-10.35.36:230][121]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/lc/T_Rocks_BC.png)
+[2021.09.27-10.35.36:249][121]LogTexture: Display: Building textures: T_Rocks_BC (AutoDXT, 512X512)
+[2021.09.27-10.35.36:320][121]LogEditorFactories: -- imported successfully
+[2021.09.27-10.35.44:196][296]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Rock)
+[2021.09.27-10.35.46:350][542]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.27-10.35.50:311][  6]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/RemediationStation/Materials/Rocks/T_Rocks_BC.T_Rocks_BC
+[2021.09.27-10.35.56:423][683]LogTexture: Display: Building textures: T_Rocks_BC (AutoDXT, 512X512)
+[2021.09.27-10.35.57:746][821]LogTexture: Display: Building textures: T_Rocks_BC (AutoDXT, 512X512)
+[2021.09.27-10.36.20:213][391]LogTexture: Display: Building textures: T_Rocks_BC (AutoDXT, 512X512)
+[2021.09.27-10.36.23:858][801]LogTexture: Display: Building textures: T_Rocks_BC (AutoDXT, 512X512)
+[2021.09.27-10.36.28:582][340]LogTexture: Display: Building textures: T_Rocks_BC (AutoDXT, 512X512)
+[2021.09.27-10.36.31:260][630]Cmd: TRANSACTION UNDO
+[2021.09.27-10.36.31:260][630]LogEditorTransaction: Undo Edit Vibrance
+[2021.09.27-10.36.53:665][ 96]Cmd: TRANSACTION UNDO
+[2021.09.27-10.36.53:665][ 96]LogEditorTransaction: Undo Edit Vibrance
+[2021.09.27-10.36.56:990][411]Cmd: TRANSACTION UNDO
+[2021.09.27-10.36.56:990][411]LogEditorTransaction: Undo Edit Vibrance
+[2021.09.27-10.36.57:413][422]Cmd: TRANSACTION UNDO
+[2021.09.27-10.36.57:413][422]LogEditorTransaction: Undo Edit Brightness
+[2021.09.27-10.36.57:869][459]Cmd: TRANSACTION UNDO
+[2021.09.27-10.36.57:870][459]LogEditorTransaction: Undo Edit Brightness
+[2021.09.27-10.37.44:056][934]LogSlate: Window 'T_Rocks_BC' being destroyed
+[2021.09.27-10.37.44:059][934]LogSlate: Window 'T_Rocks_BC' being destroyed
+[2021.09.27-10.37.50:865][969]LogEditorFactories: Performing atomic reimport of [D:/lc/T_Rocks_BC.png]
+[2021.09.27-10.37.50:866][969]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/lc/T_Rocks_BC.png)
+[2021.09.27-10.37.50:884][969]LogTexture: Display: Building textures: T_Rocks_BC (AutoDXT, 512X512)
+[2021.09.27-10.37.50:970][969]LogEditorFactories: -- imported successfully
+[2021.09.27-10.38.12:433][405]LogEditorFactories: Performing atomic reimport of [D:/lc/T_Rocks_BC.png]
+[2021.09.27-10.38.12:434][405]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/lc/T_Rocks_BC.png)
+[2021.09.27-10.38.12:453][405]LogTexture: Display: Building textures: T_Rocks_BC (AutoDXT, 512X512)
+[2021.09.27-10.38.12:544][405]LogEditorFactories: -- imported successfully
+[2021.09.27-10.39.03:683][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.09.27-10.39.03:688][762]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.010
+[2021.09.27-10.39.03:688][762]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RemediationStation/Materials/Rocks/T_Rocks_BC] ([1] browsable assets)...
+[2021.09.27-10.39.03:696][762]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/RemediationStation/Materials/Rocks/T_Rocks_BC.T_Rocks_BC]
+[2021.09.27-10.39.03:696][762]OBJ SavePackage: Finished generating thumbnails for package [/Game/RemediationStation/Materials/Rocks/T_Rocks_BC]
+[2021.09.27-10.39.03:719][762]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/T_Rocks_BC_Auto425EE212141B617BA15D80E81332CF4B8.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Autosaves/Game/RemediationStation/Materials/Rocks/T_Rocks_BC_Auto4.uasset'
+[2021.09.27-10.39.03:720][762]LogFileHelpers: Auto-saving content packages took 0.032
+[2021.09.27-10.40.35:482][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.27-10.40.35:557][498]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_Default912A6DC64D2CA5162F3AD285397B32F8.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.27-10.40.35:612][498]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData3EF1077140337C89184C1585D50C19EB.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.27-10.40.35:625][498]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.27-10.40.35:625][498]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.27-10.40.35:625][498]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.27-10.41.28:586][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.27-10.41.28:668][723]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_DefaultCC41166A4DD2AFEC2BF25EA7480C59C2.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.27-10.41.28:690][723]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData64DA56FC48A821B13AED9B8CF1B81586.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.27-10.41.28:712][723]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.27-10.41.28:712][723]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.27-10.41.28:712][723]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.27-10.41.36:255][597]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.09.27-10.41.37:707][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock14)
+[2021.09.27-10.41.40:132][ 46]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.27-10.41.42:916][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.09.27-10.41.42:992][367]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_Default8BC9D3F0467CF9B5A3358CA8674DBE94.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.27-10.41.43:009][367]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData21E2747F422E404DB9BB07994B163E15.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.27-10.41.43:020][367]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.27-10.41.43:020][367]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.27-10.41.43:020][367]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default

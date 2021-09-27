@@ -1414,3 +1414,98 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.27-09.30.33:003][640]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.27-09.30.33:003][640]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2021.09.27-09.30.33:003][640]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.27-09.31.47:687][570]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock5)
+[2021.09.27-09.31.50:348][851]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.27-09.40.33:200][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.09.27-09.40.33:282][642]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_Auto272F454F047816EC7811B0FBF7A408E65.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap'
+[2021.09.27-09.40.33:285][642]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.090
+[2021.09.27-09.40.33:285][642]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.090
+[2021.09.27-09.40.33:285][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/RemediationStation/Materials/M_AbyssLandscape_Inst] ([1] browsable assets)...
+[2021.09.27-09.40.33:285][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/RemediationStation/Materials/M_AbyssLandscape_Inst]
+[2021.09.27-09.40.33:290][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.09.27-09.40.33:291][642]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2021.09.27-09.40.33:297][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.09.27-09.40.33:298][642]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/M_AbyssLandscape_Inst_Auto2F77A272243151ECD457D5793FDD99573.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Autosaves/Game/RemediationStation/Materials/M_AbyssLandscape_Inst_Auto2.uasset'
+[2021.09.27-09.40.33:299][642]LogFileHelpers: Auto-saving content packages took 0.014
+[2021.09.27-09.40.40:536][664]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.27-09.41.36:253][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock8)
+[2021.09.27-09.41.43:674][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock4)
+[2021.09.27-09.41.46:498][ 63]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.27-09.41.50:716][562]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock6)
+[2021.09.27-09.41.53:147][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock5)
+[2021.09.27-09.41.59:040][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock13)
+[2021.09.27-09.42.04:903][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock7)
+[2021.09.27-09.42.31:974][263]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.09.27-09.42.36:057][746]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.09.27-09.42.36:798][832]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.09.27-09.42.46:954][ 14]Cmd: TRANSACTION UNDO
+[2021.09.27-09.42.46:954][ 14]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.09.27-09.42.46:990][ 14]LogMaterial: Display: Missing cached shader map for material M_AbyssLandscape, compiling. 
+[2021.09.27-09.42.47:001][ 14]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.09.27-09.42.47:001][ 14]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.09.27-09.42.47:001][ 14]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.09.27-09.42.47:001][ 14]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.09.27-09.42.47:001][ 14]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.09.27-09.42.47:001][ 14]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.09.27-09.42.47:001][ 14]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.09.27-09.42.47:001][ 14]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.09.27-09.42.47:035][ 14]LogMaterial: Display: Missing cached shader map for material M_Abyss, compiling. 
+[2021.09.27-09.42.47:960][ 46]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.09.27-09.42.47:960][ 46]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.09.27-09.42.48:432][ 73]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.09.27-09.42.48:535][ 79]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.09.27-09.42.48:562][ 81]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2021.09.27-09.42.48:639][ 86]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.09.27-09.42.48:639][ 86]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.09.27-09.42.48:681][ 89]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.09.27-09.42.48:681][ 89]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2021.09.27-09.42.48:703][ 90]MaterialEditorStats: Base pass shader: 162 instructions
+[2021.09.27-09.42.48:703][ 90]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 236 instructions
+[2021.09.27-09.42.48:704][ 90]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.27-09.42.48:704][ 90]MaterialEditorStats: Texture samplers: 3/16
+[2021.09.27-09.42.48:704][ 90]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.27-09.42.49:166][113]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2021.09.27-09.42.49:758][159]MaterialEditorStats: Base pass shader: 162 instructions
+[2021.09.27-09.42.49:758][159]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 236 instructions
+[2021.09.27-09.42.49:758][159]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.27-09.42.49:758][159]MaterialEditorStats: Texture samplers: 3/16
+[2021.09.27-09.42.49:758][159]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.27-09.42.57:677][ 87]Cmd: TRANSACTION UNDO
+[2021.09.27-09.42.57:677][ 87]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2021.09.27-09.42.57:710][ 87]LogMaterial: Display: Missing cached shader map for material M_AbyssLandscape, compiling. 
+[2021.09.27-09.42.57:738][ 87]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.09.27-09.42.57:738][ 87]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.09.27-09.42.57:738][ 87]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.09.27-09.42.57:738][ 87]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.09.27-09.42.57:738][ 87]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.09.27-09.42.57:738][ 87]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.09.27-09.42.57:738][ 87]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.09.27-09.42.57:738][ 87]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.09.27-09.42.57:739][ 87]LogMaterial: Display: Missing cached shader map for material M_Abyss, compiling. 
+[2021.09.27-09.42.58:403][106]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2021.09.27-09.42.58:403][106]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2021.09.27-09.42.58:746][126]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.09.27-09.42.58:880][134]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.09.27-09.42.58:897][135]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.09.27-09.42.58:993][141]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2021.09.27-09.42.58:993][141]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2021.09.27-09.42.59:032][144]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.09.27-09.42.59:048][145]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2021.09.27-09.42.59:073][146]MaterialEditorStats: Base pass shader: 162 instructions
+[2021.09.27-09.42.59:073][146]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 236 instructions
+[2021.09.27-09.42.59:073][146]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.27-09.42.59:073][146]MaterialEditorStats: Texture samplers: 3/16
+[2021.09.27-09.42.59:073][146]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.27-09.42.59:546][172]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.09.27-09.43.00:106][215]MaterialEditorStats: Base pass shader: 162 instructions
+[2021.09.27-09.43.00:106][215]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 236 instructions
+[2021.09.27-09.43.00:106][215]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.27-09.43.00:106][215]MaterialEditorStats: Texture samplers: 3/16
+[2021.09.27-09.43.00:106][215]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.09.27-09.43.54:161][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.09.27-09.43.54:170][562]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.09.27-09.43.54:235][562]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_DefaultB8FECB0640031C8B3225BFAD90AC4FC5.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.27-09.43.54:250][562]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltDataC4AA32B740BF9E6688AE738216409BB0.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.27-09.43.54:261][562]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.27-09.43.54:261][562]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.27-09.43.54:261][562]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default

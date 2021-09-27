@@ -3439,3 +3439,313 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.27-10.55.03:654][131]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
 [2021.09.27-10.55.03:654][131]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2021.09.27-10.57.14:090][223]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.09.27-11.01.55:170][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.09.27-11.01.55:246][ 25]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_Default8ADB4D0E4FF36D1A1E6CE4A2AF4416A5.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.27-11.01.55:265][ 25]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData8DF59EDD4DFFF81E8D55BBA92742839A.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.27-11.01.55:282][ 25]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.27-11.01.55:282][ 25]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.27-11.01.55:282][ 25]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.27-11.02.02:913][851]LogStaticMesh: Building static mesh TheDude...
+[2021.09.27-11.02.03:112][851]LogStaticMesh: Built static mesh [0.20s] /Game/RemediationStation/TheDude.TheDude
+[2021.09.27-11.02.03:163][851]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/RemediationStation/TheDude.TheDude
+[2021.09.27-11.02.07:262][246]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/RemediationStation/Dude2.Dude2
+[2021.09.27-11.02.09:566][446]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-11.02.09:566][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-11.02.18:482][444]LogSlate: Window 'Dude2' being destroyed
+[2021.09.27-11.02.18:526][444]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-11.02.18:526][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-11.04.12:366][455]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.27-11.04.26:003][ 75]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.27-11.04.26:007][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.27-11.04.26:008][ 75]PIE: New page: PIE session: Minimal_Default (27 Sep 2021, 13:04:26)
+[2021.09.27-11.04.26:053][ 75]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.09.27-11.04.26:070][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016489s)
+[2021.09.27-11.04.26:071][ 75]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.09.27-11.04.26:071][ 75]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2021.09.27-11.04.26:071][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.017671s)
+[2021.09.27-11.04.26:078][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.09.27-11.04.26:085][ 75]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.09.27-11.04.26:085][ 75]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.27-11.04.26:085][ 75]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.27-11.04.26:085][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.27-11.04.26:085][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.27-11.04.26:085][ 75]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.27-11.04.26:085][ 75]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.27-11.04.26:085][ 75]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.27-11.04.26:085][ 75]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.27-11.04.26:085][ 75]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.27-11.04.26:085][ 75]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.27-11.04.26:089][ 75]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-11.04.26:089][ 75]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-11.04.26:100][ 75]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.09.27-11.04.26:100][ 75]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.27-11.04.26:100][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.27-11.04.26:100][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.27-11.04.26:101][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.27-11.04.26:101][ 75]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.27-11.04.26:101][ 75]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.27-11.04.26:110][ 75]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.27-11.04.26:110][ 75]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.27-11.04.26:110][ 75]LogInit: FAudioDevice initialized.
+[2021.09.27-11.04.26:110][ 75]LogAudio: Display: Audio Device (ID: 8) registered with world 'Minimal_Default'.
+[2021.09.27-11.04.26:119][ 75]LogLoad: Game class is 'GameModeBase'
+[2021.09.27-11.04.26:121][ 75]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.09.27-12.04.26
+[2021.09.27-11.04.26:121][ 75]LogWorld: Bringing up level for play took: 0.001490
+[2021.09.27-11.04.26:122][ 75]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.09.27-11.04.26:123][ 75]PIE: Server logged in
+[2021.09.27-11.04.26:124][ 75]PIE: Play in editor total start time 0.117 seconds.
+[2021.09.27-11.04.30:018][539]Cmd: LevelEditor.ToggleImmersive
+[2021.09.27-11.04.54:294][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-11.04.54:294][435]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.09.27-11.04.54:294][435]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-11.04.54:295][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-11.04.54:308][435]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.27-11.04.54:314][435]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-11.04.54:318][435]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.27-11.04.54:318][435]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-11.04.54:319][435]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-11.04.54:332][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-11.04.54:335][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.09.27-11.04.54:380][437]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.09.27-11.05.03:506][488]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.09.27-11.05.19:295][337]Cmd: TRANSACTION UNDO
+[2021.09.27-11.05.19:295][337]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2021.09.27-11.05.19:323][337]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.09.27-11.05.38:428][560]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.09.27-11.05.41:567][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.09.27-11.05.41:578][923]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.09.27-11.05.41:647][923]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_Default0DDF2D0C4786E2B1B082B58419B86007.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.27-11.05.41:661][923]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltDataAFA2F47446835F7E821028B3F2C35526.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.27-11.05.41:669][923]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.27-11.05.41:669][923]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.27-11.05.41:669][923]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.27-11.06.15:764][969]Cmd: TRANSACTION UNDO
+[2021.09.27-11.06.15:764][969]LogEditorTransaction: Undo Edit Horizon Falloff
+[2021.09.27-11.06.51:595][151]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.27-11.06.55:358][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.09.27-11.06.55:439][592]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_Default6385515E4FC0575213601EAE121E35FE.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.27-11.06.55:456][592]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData96D6C3FB42155813A8B1C58DCFFD8677.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.27-11.06.55:468][592]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.27-11.06.55:468][592]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.27-11.06.55:468][592]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.27-11.07.10:198][354]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.27-11.07.16:463][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheDude)
+[2021.09.27-11.09.27:150][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.09.27-11.09.27:223][551]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_DefaultEFA405C94E3481DC3F3584AC3659F46F.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.27-11.09.27:248][551]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData63D9C1D24F50B56C764FCC92074E7B95.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.27-11.09.27:257][551]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.27-11.09.27:257][551]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.27-11.09.27:257][551]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.27-11.10.43:387][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock14)
+[2021.09.27-11.10.49:775][368]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.27-11.10.49:779][368]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.27-11.10.49:779][368]PIE: New page: PIE session: Minimal_Default (27 Sep 2021, 13:10:49)
+[2021.09.27-11.10.49:810][368]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.09.27-11.10.49:832][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021524s)
+[2021.09.27-11.10.49:834][368]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.09.27-11.10.49:834][368]LogPlayLevel: PIE: World Init took: (0.002216s)
+[2021.09.27-11.10.49:834][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.023990s)
+[2021.09.27-11.10.49:839][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.09.27-11.10.49:842][368]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.09.27-11.10.49:843][368]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.27-11.10.49:843][368]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.27-11.10.49:843][368]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.27-11.10.49:843][368]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.27-11.10.49:843][368]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.27-11.10.49:843][368]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.27-11.10.49:843][368]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.27-11.10.49:843][368]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.27-11.10.49:843][368]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.27-11.10.49:843][368]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.27-11.10.49:846][368]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-11.10.49:846][368]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-11.10.49:858][368]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.09.27-11.10.49:858][368]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.27-11.10.49:858][368]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.27-11.10.49:858][368]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.27-11.10.49:859][368]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.27-11.10.49:859][368]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.27-11.10.49:859][368]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.27-11.10.49:860][368]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.27-11.10.49:860][368]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.27-11.10.49:860][368]LogInit: FAudioDevice initialized.
+[2021.09.27-11.10.49:860][368]LogAudio: Display: Audio Device (ID: 9) registered with world 'Minimal_Default'.
+[2021.09.27-11.10.49:875][368]LogLoad: Game class is 'GameModeBase'
+[2021.09.27-11.10.49:878][368]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.09.27-12.10.49
+[2021.09.27-11.10.49:878][368]LogWorld: Bringing up level for play took: 0.001491
+[2021.09.27-11.10.49:878][368]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.09.27-11.10.49:881][368]PIE: Server logged in
+[2021.09.27-11.10.49:881][368]PIE: Play in editor total start time 0.103 seconds.
+[2021.09.27-11.11.00:132][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-11.11.00:132][587]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.09.27-11.11.00:132][587]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-11.11.00:132][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-11.11.00:141][587]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.27-11.11.00:154][587]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-11.11.00:157][587]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.27-11.11.00:158][587]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-11.11.00:158][587]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-11.11.00:173][587]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-11.11.00:175][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.09.27-11.11.00:204][588]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.09.27-11.11.03:283][950]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.09.27-11.15.05:436][759]Cmd: TRANSACTION UNDO
+[2021.09.27-11.15.05:436][759]LogEditorTransaction: Undo Landscape Editing: Erosion
+[2021.09.27-11.15.05:561][759]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2021.09.27-11.15.05:563][759]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2021.09.27-11.15.05:564][759]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2021.09.27-11.15.05:565][759]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2021.09.27-11.15.05:566][759]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.09.27-11.17.30:780][711]Cmd: TRANSACTION UNDO
+[2021.09.27-11.17.30:780][711]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2021.09.27-11.17.30:805][711]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.09.27-11.17.33:492][979]Cmd: TRANSACTION UNDO
+[2021.09.27-11.17.33:492][979]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2021.09.27-11.18.22:277][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock11)
+[2021.09.27-11.18.34:842][ 90]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.09.27-11.18.37:303][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.09.27-11.18.37:331][370]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.09.27-11.18.37:334][370]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2021.09.27-11.18.37:335][370]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 64X64)
+[2021.09.27-11.18.37:336][370]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2021.09.27-11.18.37:336][370]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 64X64)
+[2021.09.27-11.18.37:408][370]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_DefaultA4BB7CD04BAA605F4151809092B98BB8.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.27-11.18.37:426][370]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData399AF7A346DE8346E28A11817739B76E.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.27-11.18.37:453][370]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.27-11.18.37:453][370]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.27-11.18.37:453][370]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.27-11.18.38:944][535]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.27-11.18.38:950][535]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.27-11.18.38:950][535]PIE: New page: PIE session: Minimal_Default (27 Sep 2021, 13:18:38)
+[2021.09.27-11.18.38:996][535]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.09.27-11.18.39:015][535]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018473s)
+[2021.09.27-11.18.39:017][535]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.09.27-11.18.39:017][535]LogPlayLevel: PIE: World Init took: (0.002227s)
+[2021.09.27-11.18.39:017][535]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.020898s)
+[2021.09.27-11.18.39:022][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.09.27-11.18.39:029][535]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.09.27-11.18.39:029][535]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.27-11.18.39:029][535]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.27-11.18.39:029][535]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.27-11.18.39:029][535]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.27-11.18.39:029][535]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.27-11.18.39:029][535]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.27-11.18.39:029][535]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.27-11.18.39:029][535]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.27-11.18.39:029][535]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.27-11.18.39:029][535]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.27-11.18.39:032][535]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-11.18.39:032][535]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-11.18.39:041][535]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.09.27-11.18.39:041][535]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.27-11.18.39:041][535]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.27-11.18.39:041][535]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.27-11.18.39:042][535]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.27-11.18.39:042][535]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.27-11.18.39:042][535]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.27-11.18.39:053][535]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.27-11.18.39:053][535]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.27-11.18.39:053][535]LogInit: FAudioDevice initialized.
+[2021.09.27-11.18.39:053][535]LogAudio: Display: Audio Device (ID: 10) registered with world 'Minimal_Default'.
+[2021.09.27-11.18.39:062][535]LogLoad: Game class is 'GameModeBase'
+[2021.09.27-11.18.39:064][535]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.09.27-12.18.39
+[2021.09.27-11.18.39:064][535]LogWorld: Bringing up level for play took: 0.001423
+[2021.09.27-11.18.39:064][535]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.09.27-11.18.39:066][535]PIE: Server logged in
+[2021.09.27-11.18.39:066][535]PIE: Play in editor total start time 0.117 seconds.
+[2021.09.27-11.18.47:888][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-11.18.47:888][586]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.09.27-11.18.47:888][586]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-11.18.47:888][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-11.18.47:896][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.27-11.18.47:904][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-11.18.47:908][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-11.18.47:908][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-11.18.47:909][586]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-11.18.47:924][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.09.27-11.18.47:977][588]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.09.27-11.18.49:100][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.09.27-11.18.49:172][720]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_Default959F8FE643DD49BB3A1D60BEB857B4E7.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.27-11.18.49:196][720]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltDataB885F95D466669683ED605944F5CDC2E.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.27-11.18.49:215][720]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.27-11.18.49:215][720]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.27-11.18.49:215][720]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.27-11.23.07:567][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.27-11.23.07:649][428]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_Default36D1ED19457F69C34E429C92DC59A0E9.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.27-11.23.07:678][428]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData7ED8B8064A43DBEB6EA061ABB247DF7A.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.27-11.23.07:699][428]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.27-11.23.07:699][428]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.27-11.23.07:699][428]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.27-11.23.41:461][965]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.27-11.23.49:087][865]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock12)
+[2021.09.27-11.23.56:613][750]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.27-11.24.01:995][382]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.09.27-11.24.54:891][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock4)
+[2021.09.27-11.24.58:141][879]Cmd: DELETE
+[2021.09.27-11.24.58:143][879]Cmd: ACTOR DELETE
+[2021.09.27-11.24.58:151][879]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.27-11.24.58:157][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.09.27-11.24.58:163][879]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.09.27-11.25.16:846][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheDude)
+[2021.09.27-11.25.17:608][199]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.27-11.25.18:527][302]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.27-11.25.27:537][364]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.27-11.25.27:542][364]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.27-11.25.27:542][364]PIE: New page: PIE session: Minimal_Default (27 Sep 2021, 13:25:27)
+[2021.09.27-11.25.27:543][364]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.09.27-11.25.27:557][364]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014457s)
+[2021.09.27-11.25.27:559][364]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.09.27-11.25.27:559][364]LogPlayLevel: PIE: World Init took: (0.001865s)
+[2021.09.27-11.25.27:559][364]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.016505s)
+[2021.09.27-11.25.27:565][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.09.27-11.25.27:567][364]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.09.27-11.25.27:567][364]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.27-11.25.27:567][364]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.27-11.25.27:567][364]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.27-11.25.27:567][364]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.27-11.25.27:567][364]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.27-11.25.27:567][364]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.27-11.25.27:567][364]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.27-11.25.27:567][364]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.27-11.25.27:568][364]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.27-11.25.27:568][364]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.27-11.25.27:571][364]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.27-11.25.27:571][364]LogAudioMixer: Display: 1: FrontRight
+[2021.09.27-11.25.27:582][364]LogAudioMixer: Display: Using Audio Device Headphones (Synaptics HD Audio)
+[2021.09.27-11.25.27:583][364]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.27-11.25.27:583][364]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.27-11.25.27:583][364]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.27-11.25.27:583][364]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.27-11.25.27:583][364]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.27-11.25.27:583][364]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.27-11.25.27:595][364]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.27-11.25.27:595][364]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.27-11.25.27:595][364]LogInit: FAudioDevice initialized.
+[2021.09.27-11.25.27:595][364]LogAudio: Display: Audio Device (ID: 11) registered with world 'Minimal_Default'.
+[2021.09.27-11.25.27:601][364]LogLoad: Game class is 'GameModeBase'
+[2021.09.27-11.25.27:604][364]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.09.27-12.25.27
+[2021.09.27-11.25.27:604][364]LogWorld: Bringing up level for play took: 0.001874
+[2021.09.27-11.25.27:604][364]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.09.27-11.25.27:606][364]PIE: Server logged in
+[2021.09.27-11.25.27:607][364]PIE: Play in editor total start time 0.066 seconds.
+[2021.09.27-11.25.31:150][782]Cmd: LevelEditor.ToggleImmersive
+[2021.09.27-11.26.23:322][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-11.26.23:322][ 21]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.09.27-11.26.23:322][ 21]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.09.27-11.26.23:323][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-11.26.23:340][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.27-11.26.23:346][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.27-11.26.23:349][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.27-11.26.23:350][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-11.26.23:351][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.27-11.26.23:366][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.09.27-11.26.23:412][ 23]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.09.27-11.26.30:713][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.09.27-11.26.30:722][864]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.09.27-11.26.30:726][864]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 64X64)
+[2021.09.27-11.26.30:726][864]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 64X64)
+[2021.09.27-11.26.30:795][864]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_Default95B2461544A046D22CB26885E705FA65.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.27-11.26.30:810][864]LogSavePackage: Moving 'D:/lc/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltDataEA0A577B49CD8620082C7C9FF5E54BC0.tmp' to 'D:/lc/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.27-11.26.30:820][864]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.27-11.26.30:820][864]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.27-11.26.30:820][864]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default

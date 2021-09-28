@@ -1272,3 +1272,287 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.28-09.05.30:422][851]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default954823BE4A6AF19FD5FC69A4530366BA.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
 [2021.09.28-09.05.30:439][851]AssetCheck: New page: Asset Save: Minimal_Default
 [2021.09.28-09.05.30:439][851]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.28-09.06.20:467][614]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Louise\Extrass\PLanes.fbx)
+[2021.09.28-09.06.20:475][614]LogFbx: Loading FBX Scene from D:\Louise\Extrass\PLanes.fbx
+[2021.09.28-09.06.20:482][614]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.28-09.06.21:768][614]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.09.28-09.06.21:796][614]LogTexture: Display: Building textures: T_Planes_BC (AutoDXT, 1024X1024)
+[2021.09.28-09.06.22:565][614]LogFbx: Display: Triangulating static mesh SM_Rocks1
+[2021.09.28-09.06.22:570][614]LogStaticMesh: Building static mesh PLanes_SM_Rocks1...
+[2021.09.28-09.06.22:570][614]LogStaticMesh: Built static mesh [0.00s] /Game/RemediationStation/PLanes_SM_Rocks1.PLanes_SM_Rocks1
+[2021.09.28-09.06.22:582][614]LogTexture: Display: Building textures: T_Planes_BC (AutoDXT, 1024X1024)
+[2021.09.28-09.06.23:333][614]LogFbx: Display: Triangulating static mesh SM_Rocks2
+[2021.09.28-09.06.23:334][614]LogStaticMesh: Building static mesh PLanes_SM_Rocks2...
+[2021.09.28-09.06.23:335][614]LogStaticMesh: Built static mesh [0.00s] /Game/RemediationStation/PLanes_SM_Rocks2.PLanes_SM_Rocks2
+[2021.09.28-09.06.23:347][614]LogTexture: Display: Building textures: T_Planes_BC (AutoDXT, 1024X1024)
+[2021.09.28-09.06.24:124][614]LogFbx: Display: Triangulating static mesh SM_Trees
+[2021.09.28-09.06.24:124][614]LogStaticMesh: Building static mesh PLanes_SM_Trees...
+[2021.09.28-09.06.24:125][614]LogStaticMesh: Built static mesh [0.00s] /Game/RemediationStation/PLanes_SM_Trees.PLanes_SM_Trees
+[2021.09.28-09.06.24:136][614]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.09.28-09.06.28:322][974]LogSlate: Window 'Message Log' being destroyed
+[2021.09.28-09.06.28:326][974]LogSlate: Window 'Message Log' being destroyed
+[2021.09.28-09.06.30:122][129]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/RemediationStation/PLanes_SM_Rocks1.PLanes_SM_Rocks1
+[2021.09.28-09.06.30:622][129]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2021.09.28-09.06.30:623][129]LogSlate: Took 0.007347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.28-09.06.36:868][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/PLanes_SM_Rocks1" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/PLanes_SM_Rocks1.uasset" SILENT=true
+[2021.09.28-09.06.36:874][608]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/PLanes_SM_Rocks18E935703440D6FB730E6FA8D02EAC583.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/PLanes_SM_Rocks1.uasset'
+[2021.09.28-09.06.36:891][608]AssetCheck: New page: Asset Save: PLanes_SM_Rocks1
+[2021.09.28-09.06.36:891][608]LogContentValidation: Display: Validating StaticMesh /Game/RemediationStation/PLanes_SM_Rocks1.PLanes_SM_Rocks1
+[2021.09.28-09.06.38:386][709]LogSlate: Window 'PLanes_SM_Rocks1' being destroyed
+[2021.09.28-09.06.38:394][709]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-09.06.38:394][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-09.06.39:689][804]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/RemediationStation/PLanes_SM_Rocks2.PLanes_SM_Rocks2
+[2021.09.28-09.06.46:217][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/PLanes_SM_Rocks2" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/PLanes_SM_Rocks2.uasset" SILENT=true
+[2021.09.28-09.06.46:223][280]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/PLanes_SM_Rocks2268DBC584D3CC787D2573DB579093A88.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/PLanes_SM_Rocks2.uasset'
+[2021.09.28-09.06.46:237][280]AssetCheck: New page: Asset Save: PLanes_SM_Rocks2
+[2021.09.28-09.06.46:237][280]LogContentValidation: Display: Validating StaticMesh /Game/RemediationStation/PLanes_SM_Rocks2.PLanes_SM_Rocks2
+[2021.09.28-09.06.47:211][343]LogSlate: Window 'PLanes_SM_Rocks2' being destroyed
+[2021.09.28-09.06.47:219][343]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-09.06.47:219][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-09.06.48:850][464]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/RemediationStation/PLanes_SM_Trees.PLanes_SM_Trees
+[2021.09.28-09.06.56:432][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/PLanes_SM_Trees" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/PLanes_SM_Trees.uasset" SILENT=true
+[2021.09.28-09.06.56:438][  2]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/PLanes_SM_TreesEC3973ED45107CF6907D6997509C818C.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/PLanes_SM_Trees.uasset'
+[2021.09.28-09.06.56:446][  2]AssetCheck: New page: Asset Save: PLanes_SM_Trees
+[2021.09.28-09.06.56:446][  2]LogContentValidation: Display: Validating StaticMesh /Game/RemediationStation/PLanes_SM_Trees.PLanes_SM_Trees
+[2021.09.28-09.07.03:127][369]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/RemediationStation/Materials/M_Planes.M_Planes
+[2021.09.28-09.07.03:130][369]LogMaterial: Display: Missing cached shader map for material M_Planes, compiling. 
+[2021.09.28-09.07.03:196][369]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.09.28-09.07.03:201][369]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.09.28-09.07.03:205][369]LogMaterial: Display: Missing cached shader map for material M_Planes, compiling. 
+[2021.09.28-09.07.03:217][369]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.09.28-09.07.03:218][369]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.09.28-09.07.03:218][369]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.09.28-09.07.03:219][369]LogMaterial: Display: Missing cached shader map for material M_Planes, compiling. 
+[2021.09.28-09.07.03:241][369]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.09.28-09.07.03:245][369]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.09.28-09.07.04:755][423]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2021.09.28-09.07.04:875][429]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2021.09.28-09.07.05:440][463]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2021.09.28-09.07.05:605][473]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/RemediationStation/Materials/PaintingTex/T_Planes_BC.T_Planes_BC
+[2021.09.28-09.07.05:626][473]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.09.28-09.07.06:663][534]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2021.09.28-09.07.06:915][549]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2021.09.28-09.07.07:374][580]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2021.09.28-09.07.07:508][586]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2021.09.28-09.07.07:668][596]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2021.09.28-09.07.07:994][624]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2021.09.28-09.07.08:096][634]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2021.09.28-09.07.08:377][659]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2021.09.28-09.07.08:843][690]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2021.09.28-09.07.09:057][703]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.09.28-09.07.09:366][724]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.09.28-09.07.10:093][774]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 20
+[2021.09.28-09.07.10:546][806]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.09.28-09.07.10:615][806]LogTexture: Display: Building textures: T_Planes_BC (AutoDXT, 1024X1024)
+[2021.09.28-09.07.11:237][806]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.09.28-09.07.11:237][806]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2021.09.28-09.07.11:248][806]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2021.09.28-09.07.11:248][806]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.09.28-09.07.11:606][831]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.09.28-09.07.11:943][849]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.09.28-09.07.12:704][899]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.09.28-09.07.12:985][914]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.09.28-09.07.12:985][914]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 10
+[2021.09.28-09.07.13:811][967]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/T_Planes_BCF43635174DAB6B1A5294F68533864729.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/PaintingTex/T_Planes_BC.uasset'
+[2021.09.28-09.07.13:825][967]AssetCheck: New page: Asset Save: T_Planes_BC
+[2021.09.28-09.07.13:825][967]LogContentValidation: Display: Validating Texture2D /Game/RemediationStation/Materials/PaintingTex/T_Planes_BC.T_Planes_BC
+[2021.09.28-09.07.14:440][  6]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.09.28-09.07.15:039][ 43]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2021.09.28-09.07.15:618][ 79]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.09.28-09.07.15:877][ 92]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2021.09.28-09.07.15:903][ 93]MaterialEditorStats: Base pass shader: 124 instructions
+[2021.09.28-09.07.15:903][ 93]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2021.09.28-09.07.15:903][ 93]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2021.09.28-09.07.15:903][ 93]MaterialEditorStats: Texture samplers: 4/16
+[2021.09.28-09.07.15:903][ 93]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.09.28-09.07.15:903][ 93]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.28-09.07.16:646][135]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2021.09.28-09.07.17:458][179]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.09.28-09.07.17:458][179]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.09.28-09.07.18:236][226]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.09.28-09.07.18:835][260]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.28-09.07.21:550][363]LogActorFactory: Actor Factory created PLanes_SM_Rocks1
+[2021.09.28-09.07.23:227][479]LogActorFactory: Actor Factory created PLanes_SM_Rocks1
+[2021.09.28-09.07.50:265][229]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.28-09.08.03:194][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.09.28-09.08.03:288][ 44]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default4E7E72974BA4461E1B4CBBBE1A762A63.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.28-09.08.03:301][ 44]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.09.28-09.08.03:302][ 44]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.28-09.08.04:807][114]LogActorFactory: Actor Factory created PLanes_SM_Trees
+[2021.09.28-09.08.06:228][209]LogActorFactory: Actor Factory created PLanes_SM_Trees
+[2021.09.28-09.08.11:749][562]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.28-09.08.13:606][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PLanes_SM_Trees)
+[2021.09.28-09.08.18:754][  0]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.28-09.08.19:827][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.09.28-09.08.19:921][ 66]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default2AC9F6864A762E8DE32FD0818776559E.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.28-09.08.19:938][ 66]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.09.28-09.08.19:938][ 66]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.28-09.08.22:461][202]LogActorFactory: Actor Factory created PLanes_SM_Rocks2
+[2021.09.28-09.08.24:073][313]LogActorFactory: Actor Factory created PLanes_SM_Rocks2
+[2021.09.28-09.08.30:759][730]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.28-09.09.12:266][230]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.28-09.09.16:001][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheDude)
+[2021.09.28-09.09.16:768][476]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.28-09.09.20:627][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PLanes_SM_Rocks2)
+[2021.09.28-09.09.24:647][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PLanes_SM_Rocks2)
+[2021.09.28-09.09.27:004][ 82]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.28-09.09.29:076][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PLanes_SM_Trees)
+[2021.09.28-09.09.33:131][460]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.28-09.09.35:299][594]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PLanes_SM_Trees)
+[2021.09.28-09.09.39:336][847]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.28-09.09.44:383][139]LogActorFactory: Actor Factory created PLanes_SM_Trees
+[2021.09.28-09.09.45:602][216]LogActorFactory: Actor Factory created PLanes_SM_Trees
+[2021.09.28-09.09.52:319][644]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.28-09.09.54:380][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PLanes_SM_Trees2)
+[2021.09.28-09.10.13:525][982]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.28-09.10.19:080][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PLanes_SM_Trees2)
+[2021.09.28-09.10.25:177][699]LogActorFactory: Actor Factory created PLanes_SM_Rocks2
+[2021.09.28-09.10.26:865][819]LogActorFactory: Actor Factory created PLanes_SM_Rocks2
+[2021.09.28-09.10.33:942][268]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.28-09.10.35:816][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PLanes_SM_Rocks3)
+[2021.09.28-09.10.48:175][161]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.09.28-09.10.48:722][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheDude)
+[2021.09.28-09.10.49:705][252]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.28-09.10.54:509][542]LogActorFactory: Actor Factory created PLanes_SM_Trees
+[2021.09.28-09.10.55:450][601]LogActorFactory: Actor Factory created PLanes_SM_Trees
+[2021.09.28-09.10.59:512][859]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.28-09.11.00:509][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PLanes_SM_Trees4)
+[2021.09.28-09.11.08:854][445]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.28-09.11.09:389][477]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.28-09.11.15:175][818]LogActorFactory: Actor Factory created PLanes_SM_Trees
+[2021.09.28-09.11.17:232][976]LogActorFactory: Actor Factory created PLanes_SM_Trees
+[2021.09.28-09.11.22:707][334]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.28-09.11.40:365][435]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.28-09.11.50:972][ 71]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.09.28-09.11.51:744][117]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.28-09.11.54:006][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PLanes_SM_Trees5)
+[2021.09.28-09.12.09:904][275]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.28-09.12.17:448][738]LogActorFactory: Actor Factory created PLanes_SM_Trees
+[2021.09.28-09.12.18:757][836]LogActorFactory: Actor Factory created PLanes_SM_Trees
+[2021.09.28-09.12.29:999][544]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.28-09.12.30:652][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PLanes_SM_Trees6)
+[2021.09.28-09.12.34:998][860]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.28-09.12.39:420][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.09.28-09.12.39:515][133]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default1F0F48ED4B6FD032312957BC5A7702EF.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.28-09.12.39:527][133]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.09.28-09.12.39:527][133]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.28-09.12.40:825][217]LogSlate: Window 'T_Planes_BC' being destroyed
+[2021.09.28-09.12.40:829][217]LogSlate: Window 'T_Planes_BC' being destroyed
+[2021.09.28-09.12.40:832][217]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-09.12.40:832][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-09.12.40:886][217]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-09.12.40:886][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-09.12.43:879][532]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/RemediationStation/T_Planes_BC.T_Planes_BC
+[2021.09.28-09.12.50:295][ 83]LogSlate: Window 'T_Planes_BC' being destroyed
+[2021.09.28-09.13.03:276][542]LogTexture: Display: Building textures: NewReflectionComponentTextureD6C57B644F03DADF4F2699848FAEA3C3 (BGRA8, 128X128)
+[2021.09.28-09.13.03:291][542]LogTexture: Display: Building textures: NewReflectionComponentTextureEE795A2C40BE358FC26C08A43C09C798 (BGRA8, 128X128)
+[2021.09.28-09.13.06:503][903]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.28-09.13.06:514][903]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.28-09.13.06:520][903]PIE: New page: PIE session: Minimal_Default (28 Sep 2021, 11:13:06)
+[2021.09.28-09.13.06:526][903]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.09.28-09.13.06:528][903]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.09.28-09.13.06:529][903]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.09.28-09.13.06:550][903]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020217s)
+[2021.09.28-09.13.06:552][903]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.09.28-09.13.06:552][903]LogPlayLevel: PIE: World Init took: (0.001990s)
+[2021.09.28-09.13.06:553][903]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.023237s)
+[2021.09.28-09.13.06:561][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.09.28-09.13.06:567][903]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.09.28-09.13.06:567][903]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.28-09.13.06:567][903]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.28-09.13.06:567][903]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.28-09.13.06:567][903]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.28-09.13.06:567][903]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.28-09.13.06:568][903]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.28-09.13.06:568][903]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.28-09.13.06:568][903]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.28-09.13.06:568][903]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.28-09.13.06:568][903]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.28-09.13.06:572][903]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.28-09.13.06:572][903]LogAudioMixer: Display: 1: FrontRight
+[2021.09.28-09.13.06:588][903]LogAudioMixer: Display: Using Audio Device PL2290 (NVIDIA High Definition Audio)
+[2021.09.28-09.13.06:588][903]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.28-09.13.06:588][903]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.28-09.13.06:588][903]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.28-09.13.06:588][903]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.28-09.13.06:589][903]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.28-09.13.06:589][903]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.28-09.13.06:603][903]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.28-09.13.06:603][903]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.28-09.13.06:603][903]LogInit: FAudioDevice initialized.
+[2021.09.28-09.13.06:603][903]LogAudio: Display: Audio Device (ID: 2) registered with world 'Minimal_Default'.
+[2021.09.28-09.13.06:611][903]LogLoad: Game class is 'GameModeBase'
+[2021.09.28-09.13.06:621][903]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2021.09.28-10.13.06
+[2021.09.28-09.13.06:623][903]LogWorld: Bringing up level for play took: 0.003859
+[2021.09.28-09.13.06:624][903]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.09.28-09.13.06:647][903]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.09.28-09.13.06:652][903]PIE: Server logged in
+[2021.09.28-09.13.06:654][903]PIE: Play in editor total start time 0.146 seconds.
+[2021.09.28-09.13.15:164][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-09.13.15:164][904]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2021.09.28-09.13.15:165][904]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-09.13.15:166][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-09.13.15:178][904]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.28-09.13.15:185][904]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-09.13.15:194][904]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.28-09.13.15:200][904]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.28-09.13.15:201][904]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.28-09.13.15:221][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.28-09.13.15:228][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.09.28-09.13.15:256][905]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.09.28-09.13.16:090][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.09.28-09.13.16:184][994]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_DefaultECF1629E4ED90F74405B37875ABFE981.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.28-09.13.16:219][994]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData36301A7541F375E9E4A12F96DE896050.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.28-09.13.16:230][994]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.28-09.13.16:230][994]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.28-09.13.16:230][994]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.28-09.13.22:186][600]LogActorFactory: Actor Factory created PLanes_SM_Rocks1
+[2021.09.28-09.13.23:207][693]LogActorFactory: Actor Factory created PLanes_SM_Rocks1
+[2021.09.28-09.13.46:725][474]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.28-09.13.53:162][189]LogActorFactory: Actor Factory created PLanes_SM_Rocks1
+[2021.09.28-09.13.53:852][252]LogActorFactory: Actor Factory created PLanes_SM_Rocks1
+[2021.09.28-09.14.06:080][690]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.28-09.14.13:168][483]LogActorFactory: Actor Factory created PLanes_SM_Rocks1
+[2021.09.28-09.14.14:128][578]LogActorFactory: Actor Factory created PLanes_SM_Rocks1
+[2021.09.28-09.14.23:229][647]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.28-09.14.31:605][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PLanes_SM_Rocks6)
+[2021.09.28-09.14.34:551][893]LogActorFactory: Actor Factory created PLanes_SM_Rocks2
+[2021.09.28-09.14.35:843][ 11]LogActorFactory: Actor Factory created PLanes_SM_Rocks2
+[2021.09.28-09.15.00:413][916]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.28-09.15.26:326][909]LogActorFactory: Actor Factory created PLanes_SM_Rocks1
+[2021.09.28-09.15.27:294][  8]LogActorFactory: Actor Factory created PLanes_SM_Rocks1
+[2021.09.28-09.15.36:677][112]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.09.28-09.15.38:877][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PLanes_SM_Rocks8)
+[2021.09.28-09.15.43:165][867]Cmd: DELETE
+[2021.09.28-09.15.43:166][867]Cmd: ACTOR DELETE
+[2021.09.28-09.15.43:176][867]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.28-09.15.43:182][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.09.28-09.15.43:187][867]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.09.28-09.15.46:171][222]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.09.28-09.15.46:566][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PLanes_SM_Rocks8)
+[2021.09.28-09.15.51:441][840]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.28-09.15.57:500][527]LogRenderer: Reallocating scene render targets to support 1632x920 Format 10 NumSamples 1 (Frame:59918).
+[2021.09.28-09.15.57:643][528]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:59921).
+[2021.09.28-09.16.20:952][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheDude)
+[2021.09.28-09.16.21:840][330]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.09.28-09.16.24:631][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.28-09.16.24:727][570]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default85EEC1DA433C0DFEAF19CFBEDBA74645.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.28-09.16.24:757][570]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltDataEE13B3EA4F7993C42DB2E38A92680FF8.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.28-09.16.24:779][570]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.28-09.16.24:779][570]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.28-09.16.24:779][570]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.28-09.16.26:183][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.09.28-09.16.27:641][683]LogSlate: Window 'Save Content' being destroyed
+[2021.09.28-09.16.27:669][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/Materials/M_AbyssDude" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_AbyssDude.uasset" SILENT=true
+[2021.09.28-09.16.27:676][683]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/M_AbyssDude8809816C4E8FF110D68C4E92A6B0204D.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_AbyssDude.uasset'
+[2021.09.28-09.16.27:694][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/T_Planes_BC" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/T_Planes_BC.uasset" SILENT=true
+[2021.09.28-09.16.27:772][683]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/T_Planes_BC1D53922A41F04116EEA833BC38BC68D0.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/T_Planes_BC.uasset'
+[2021.09.28-09.16.27:781][683]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.28-09.16.27:781][683]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/RemediationStation/Materials/M_AbyssDude.M_AbyssDude
+[2021.09.28-09.16.27:781][683]LogContentValidation: Display: Validating Texture2D /Game/RemediationStation/T_Planes_BC.T_Planes_BC
+[2021.09.28-09.16.28:597][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.09.28-09.16.28:692][770]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_DefaultEFFBDC0B4CB91DDC48E7DABC8CD82825.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.28-09.16.28:734][770]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltDataCAD5E7074989E6B002286D9E4A8C8213.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.28-09.16.28:745][770]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.28-09.16.28:745][770]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.28-09.16.28:745][770]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData

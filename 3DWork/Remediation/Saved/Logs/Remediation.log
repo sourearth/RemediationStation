@@ -1207,3 +1207,68 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.28-08.57.41:960][217]LogContentValidation: Display: Validating Texture2D /Game/RemediationStation/Materials/PaintingTex/T_Planes_BC.T_Planes_BC
 [2021.09.28-08.57.41:960][217]LogContentValidation: Display: Validating Texture2D /Game/RemediationStation/Materials/PaintingTex/T_Planes_O.T_Planes_O
 [2021.09.28-08.57.41:960][217]LogContentValidation: Display: Validating StaticMesh /Game/RemediationStation/DudeUVd.DudeUVd
+[2021.09.28-09.04.18:796][920]LogEditorFactories: Performing atomic reimport of [D:/Louise/Extrass/DudeUVd.FBX]
+[2021.09.28-09.04.18:822][920]LogFbx: Loading FBX Scene from D:/Louise/Extrass/DudeUVd.FBX
+[2021.09.28-09.04.18:868][920]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.28-09.04.19:191][920]LogStaticMesh: Building static mesh DudeUVd...
+[2021.09.28-09.04.19:731][920]LogStaticMesh: Built static mesh [0.54s] /Game/RemediationStation/DudeUVd.DudeUVd
+[2021.09.28-09.04.19:847][920]LogStaticMesh: Warning: DudeUVd has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.09.28-09.04.19:847][920]LogStaticMesh: Warning: DudeUVd has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.09.28-09.04.21:390][920]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2021.09.28-09.04.21:402][920]LogEditorFactories: -- imported successfully
+[2021.09.28-09.04.21:410][920]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.09.28-09.04.21:410][920]FBXImport: Warning: DudeUVd has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2021.09.28-09.04.21:410][920]FBXImport: Warning: DudeUVd has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.09.28-09.04.22:848][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.09.28-09.04.22:942][ 25]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default03DE8F4A4449CCE504A31E8EF67D3425.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.28-09.04.22:962][ 25]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.09.28-09.04.22:962][ 25]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.28-09.04.27:978][410]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Louise\Extrass\T_Painting.tga)
+[2021.09.28-09.04.27:984][410]LogTexture: Display: Building textures: T_Painting (AutoDXT, 1024X1024)
+[2021.09.28-09.04.34:634][650]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/RemediationStation/Materials/M_AbyssDude.M_AbyssDude
+[2021.09.28-09.04.34:877][650]LogRenderer: Reallocating scene render targets to support 1336x920 Format 10 NumSamples 1 (Frame:1).
+[2021.09.28-09.04.45:323][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.09.28-09.04.46:883][481]LogSlate: Window 'Save Content' being destroyed
+[2021.09.28-09.04.46:918][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/DudeUVd" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/DudeUVd.uasset" SILENT=true
+[2021.09.28-09.04.47:003][481]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/DudeUVd68901CE4431227AF247666BD7194F837.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/DudeUVd.uasset'
+[2021.09.28-09.04.47:015][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/Materials/M_AbyssDude" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_AbyssDude.uasset" SILENT=true
+[2021.09.28-09.04.47:020][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.28-09.04.47:021][481]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.28-09.04.47:549][481]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.28-09.04.47:549][481]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.28-09.04.47:550][481]TextureStreamingBuild: Display: Compiling optional shaders took 0.530 seconds.
+[2021.09.28-09.04.47:565][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.09.28-09.04.47:571][481]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/M_AbyssDudeCE68A25C455880A5AA1622B55D8E9E79.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_AbyssDude.uasset'
+[2021.09.28-09.04.47:670][481]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/T_Painting6B0A1DF149C323FEDA6C19B4BEC2EED2.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/PaintingTex/T_Painting.uasset'
+[2021.09.28-09.04.47:725][481]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.28-09.04.47:725][481]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/RemediationStation/Materials/M_AbyssDude.M_AbyssDude
+[2021.09.28-09.04.47:725][481]LogContentValidation: Display: Validating StaticMesh /Game/RemediationStation/DudeUVd.DudeUVd
+[2021.09.28-09.04.47:725][481]LogContentValidation: Display: Validating Texture2D /Game/RemediationStation/Materials/PaintingTex/T_Painting.T_Painting
+[2021.09.28-09.04.53:984][ 57]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/Materials/M_AbyssDude" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_AbyssDude.uasset" SILENT=true
+[2021.09.28-09.04.53:990][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.09.28-09.04.53:991][ 57]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.28-09.04.54:357][ 57]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.28-09.04.54:357][ 57]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.28-09.04.54:359][ 57]TextureStreamingBuild: Display: Compiling optional shaders took 0.367 seconds.
+[2021.09.28-09.04.54:365][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.28-09.04.54:372][ 57]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/M_AbyssDude742153A04EF0A4E141365FAE41992041.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_AbyssDude.uasset'
+[2021.09.28-09.04.54:392][ 57]AssetCheck: New page: Asset Save: M_AbyssDude
+[2021.09.28-09.04.54:392][ 57]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/RemediationStation/Materials/M_AbyssDude.M_AbyssDude
+[2021.09.28-09.05.13:229][812]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.28-09.05.13:341][812]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_DefaultDBEDB6634D2BBADAAF8B03B1F263F861.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.28-09.05.13:362][812]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.09.28-09.05.13:362][812]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.28-09.05.16:130][ 35]LogSlate: Window 'M_AbyssDude' being destroyed
+[2021.09.28-09.05.16:154][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.09.28-09.05.16:174][ 35]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.28-09.05.16:736][ 35]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.28-09.05.16:736][ 35]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.28-09.05.22:684][ 35]TextureStreamingBuild: Display: Compiling optional shaders took 6.509 seconds.
+[2021.09.28-09.05.22:692][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.09.28-09.05.22:702][ 35]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-09.05.22:702][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-09.05.27:315][524]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.28-09.05.30:329][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.09.28-09.05.30:422][851]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default954823BE4A6AF19FD5FC69A4530366BA.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.28-09.05.30:439][851]AssetCheck: New page: Asset Save: Minimal_Default
+[2021.09.28-09.05.30:439][851]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default

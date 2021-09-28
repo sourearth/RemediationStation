@@ -2184,3 +2184,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.28-09.55.37:034][538]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.28-09.55.37:034][538]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2021.09.28-09.55.37:034][538]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2021.09.28-10.01.45:259][ 66]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.28-10.01.46:848][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.09.28-10.01.46:948][245]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default15A9DB4B42A83082DCF891A24AA0EB7E.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.28-10.01.46:979][245]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData13CA14C144D6D4D58564CC975F871B34.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.28-10.01.47:001][245]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.28-10.01.47:001][245]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.28-10.01.47:001][245]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData

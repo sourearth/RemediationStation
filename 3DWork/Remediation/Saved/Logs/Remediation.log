@@ -2446,3 +2446,895 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.28-10.30.22:808][513]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/T_Planes_BC7F2282DD47032215603D8E8D28DFF6C2.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/PaintingTex/T_Planes_BC.uasset'
 [2021.09.28-10.30.22:819][513]AssetCheck: New page: Asset Save: T_Planes_BC
 [2021.09.28-10.30.22:819][513]LogContentValidation: Display: Validating Texture2D /Game/RemediationStation/Materials/PaintingTex/T_Planes_BC.T_Planes_BC
+[2021.09.28-10.31.25:767][623]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2021.09.28-10.31.25:779][624]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.28-10.31.25:779][624]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.28-10.31.36:178][525]LogSlate: Window 'M_Abyss' being destroyed
+[2021.09.28-10.31.36:233][525]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.09.28-10.31.36:233][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.28-10.31.46:100][575]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/RemediationStation/Materials/M_Abyss.M_Abyss
+[2021.09.28-10.31.46:102][575]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.31.46:224][575]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.31.46:229][575]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.31.46:233][575]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.31.46:240][575]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.09.28-10.31.46:240][575]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.09.28-10.31.46:240][575]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.09.28-10.31.46:241][575]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.31.46:255][575]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.31.46:259][575]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.31.49:821][833]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.09.28-10.31.50:290][870]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.09.28-10.31.54:618][212]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2021.09.28-10.31.55:460][278]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.09.28-10.31.57:332][414]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.31.57:349][414]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.31.57:353][414]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.31.57:357][414]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.31.57:374][414]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.31.57:378][414]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.31.57:697][437]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.09.28-10.31.57:896][451]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.09.28-10.32.02:460][806]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.09.28-10.32.02:660][819]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.09.28-10.32.03:637][875]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2021.09.28-10.32.03:640][875]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.32.04:966][976]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.09.28-10.32.05:447][ 12]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.09.28-10.32.08:213][241]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.09.28-10.32.08:639][277]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.09.28-10.32.11:422][510]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.09.28-10.32.11:608][522]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.09.28-10.32.14:584][725]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.09.28-10.32.15:137][768]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.09.28-10.32.15:340][785]LogEditorTransaction: Undo Material Editor: New Expression
+[2021.09.28-10.32.15:343][785]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.32.15:357][785]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2021.09.28-10.32.15:361][785]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.32.15:371][785]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.32.15:374][785]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.32.15:771][795]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.09.28-10.32.15:871][798]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2021.09.28-10.32.16:893][880]LogEditorTransaction: Redo Material Editor: New Expression
+[2021.09.28-10.32.16:896][880]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.32.16:903][880]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2021.09.28-10.32.16:907][880]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.32.16:923][880]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.32.16:927][880]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.32.17:608][931]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.09.28-10.32.18:830][ 19]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2021.09.28-10.32.19:920][ 75]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.09.28-10.32.20:128][ 89]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.32.21:137][165]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.09.28-10.32.23:398][338]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.09.28-10.32.24:567][427]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.09.28-10.32.24:891][450]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.32.24:904][450]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.32.24:907][450]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.32.26:252][553]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.09.28-10.32.27:623][659]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.09.28-10.32.27:936][684]LogEditorTransaction: Undo Create Pin Link
+[2021.09.28-10.32.27:942][684]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.32.27:957][684]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.32.27:972][684]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.32.27:975][684]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.32.28:289][692]LogEditorTransaction: Undo Material Editor: New Expression
+[2021.09.28-10.32.28:291][692]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.32.28:299][692]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.32.28:314][692]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.32.28:317][692]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.32.28:576][702]LogEditorTransaction: Undo Edit Brightness
+[2021.09.28-10.32.28:598][702]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.32.28:608][702]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.32.28:611][702]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.32.29:391][760]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.09.28-10.32.30:747][862]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.09.28-10.32.33:549][ 77]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2021.09.28-10.32.34:608][161]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.09.28-10.32.36:692][328]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.09.28-10.32.37:388][384]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.09.28-10.32.40:662][642]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.09.28-10.32.40:801][653]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2021.09.28-10.32.43:254][849]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 11
+[2021.09.28-10.32.44:829][972]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 10
+[2021.09.28-10.32.46:302][ 88]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.09.28-10.32.47:732][202]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.09.28-10.32.48:636][274]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.09.28-10.32.48:658][275]MaterialEditorStats: Base pass shader: 162 instructions
+[2021.09.28-10.32.48:658][275]MaterialEditorStats: Base pass shader with Surface Lightmap: 183 instructions
+[2021.09.28-10.32.48:658][275]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 230 instructions
+[2021.09.28-10.32.48:658][275]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.09.28-10.32.48:658][275]MaterialEditorStats: Texture samplers: 5/16
+[2021.09.28-10.32.48:658][275]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.09.28-10.32.48:658][275]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.28-10.32.49:983][378]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.09.28-10.32.51:575][503]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.09.28-10.32.52:454][573]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.09.28-10.32.54:028][695]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.09.28-10.32.54:771][754]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.28-10.32.56:527][891]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.28-10.36.25:724][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.09.28-10.36.25:732][488]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.018
+[2021.09.28-10.36.25:732][488]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/RemediationStation/Materials/PaintingTex/T_Planes_BC] ([1] browsable assets)...
+[2021.09.28-10.36.25:738][488]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/RemediationStation/Materials/PaintingTex/T_Planes_BC.T_Planes_BC]
+[2021.09.28-10.36.25:738][488]OBJ SavePackage: Finished generating thumbnails for package [/Game/RemediationStation/Materials/PaintingTex/T_Planes_BC]
+[2021.09.28-10.36.25:756][488]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/T_Planes_BC_Auto29282E4F04529835688929CBE5B911214.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Autosaves/Game/RemediationStation/Materials/PaintingTex/T_Planes_BC_Auto2.uasset'
+[2021.09.28-10.36.25:757][488]LogFileHelpers: Auto-saving content packages took 0.025
+[2021.09.28-10.43.47:989][537]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.43.48:005][537]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.09.28-10.43.48:005][537]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.09.28-10.43.48:005][537]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.09.28-10.43.48:005][537]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.43.48:008][537]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.43.48:013][537]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.43.48:029][537]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.43.48:033][537]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.43.54:459][ 36]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2021.09.28-10.43.54:809][ 64]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.09.28-10.43.56:383][179]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.43.56:395][179]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.43.56:399][179]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.43.56:403][179]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.43.56:420][179]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.43.56:424][179]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.43.58:300][323]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2021.09.28-10.43.59:049][383]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.09.28-10.44.04:239][791]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.09.28-10.44.05:681][897]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2021.09.28-10.44.06:558][968]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.09.28-10.44.06:725][980]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.44.06:739][980]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.44.06:743][980]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.44.08:419][103]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2021.09.28-10.44.09:656][198]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.09.28-10.44.12:432][408]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2021.09.28-10.44.14:255][547]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2021.09.28-10.44.15:334][629]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.09.28-10.44.17:537][800]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 14
+[2021.09.28-10.44.18:099][843]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2021.09.28-10.44.21:946][125]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.44.21:957][125]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.44.21:961][125]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.44.21:983][126]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.09.28-10.44.24:912][350]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.09.28-10.44.25:835][421]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2021.09.28-10.44.29:164][679]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.09.28-10.44.30:123][753]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.44.30:140][753]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.44.30:143][753]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.44.31:455][850]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2021.09.28-10.44.31:937][882]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.09.28-10.44.32:241][903]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.09.28-10.44.36:713][234]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2021.09.28-10.44.37:194][271]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.09.28-10.44.37:260][275]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.44.37:267][275]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.09.28-10.44.37:274][275]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.44.37:278][275]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.44.37:285][275]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.44.39:600][445]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2021.09.28-10.44.40:231][492]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.09.28-10.44.41:682][602]LogMaterialEditor: Saving and Compiling material M_Abyss
+[2021.09.28-10.44.42:246][602]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.09.28-10.44.42:246][602]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2021.09.28-10.44.42:256][602]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.44.42:312][602]LogMaterial: Display: Missing cached shader map for material M_Abyss, compiling. 
+[2021.09.28-10.44.42:350][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.09.28-10.44.42:360][602]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.28-10.44.42:920][602]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2021.09.28-10.44.42:920][602]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2021.09.28-10.44.42:920][602]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2021.09.28-10.44.42:920][602]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2021.09.28-10.44.43:477][602]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2021.09.28-10.44.43:477][602]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2021.09.28-10.44.43:477][602]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2021.09.28-10.44.44:035][602]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2021.09.28-10.44.44:035][602]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2021.09.28-10.44.44:035][602]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2021.09.28-10.44.44:593][602]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2021.09.28-10.44.45:151][602]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2021.09.28-10.44.45:151][602]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2021.09.28-10.44.45:151][602]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2021.09.28-10.44.45:709][602]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2021.09.28-10.44.45:709][602]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2021.09.28-10.44.45:709][602]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.09.28-10.44.46:060][602]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.09.28-10.44.46:060][602]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2021.09.28-10.44.46:060][602]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.09.28-10.44.46:069][602]TextureStreamingBuild: Display: Compiling optional shaders took 3.714 seconds.
+[2021.09.28-10.44.48:647][602]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.09.28-10.44.50:706][602]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.09.28-10.44.51:783][602]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.09.28-10.44.52:442][602]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.28-10.44.53:568][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/Materials/M_Abyss" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset" SILENT=true
+[2021.09.28-10.44.53:577][602]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/M_Abyss9E011518453436180C1AC9811F6E8629.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset'
+[2021.09.28-10.44.53:606][602]AssetCheck: New page: Asset Save: M_Abyss
+[2021.09.28-10.44.53:606][602]LogContentValidation: Display: Validating Material /Game/RemediationStation/Materials/M_Abyss.M_Abyss
+[2021.09.28-10.44.53:607][602]MaterialEditorStats: Base pass shader: 166 instructions
+[2021.09.28-10.44.53:607][602]MaterialEditorStats: Base pass shader with Surface Lightmap: 187 instructions
+[2021.09.28-10.44.53:607][602]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 234 instructions
+[2021.09.28-10.44.53:607][602]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.09.28-10.44.53:607][602]MaterialEditorStats: Texture samplers: 5/16
+[2021.09.28-10.44.53:607][602]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.09.28-10.44.53:607][602]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.28-10.45.12:725][102]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.45.12:738][102]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.09.28-10.45.12:738][102]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.09.28-10.45.12:738][102]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.09.28-10.45.12:739][102]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.45.12:745][102]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.45.12:753][102]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.45.14:815][259]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.09.28-10.45.16:164][364]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.09.28-10.45.16:582][394]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.45.16:597][394]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.45.16:601][394]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.45.16:609][394]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.45.17:449][458]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.09.28-10.45.18:452][533]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.09.28-10.45.21:538][758]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.09.28-10.45.23:222][886]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2021.09.28-10.45.24:009][945]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.45.24:027][945]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.45.24:031][945]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.45.24:215][955]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.09.28-10.45.24:668][989]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.45.24:669][989]LogMaterial: Warning: [AssetLog] /Engine/Transient.PreviewMaterial_0 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.09.28-10.45.24:669][989]LogMaterial: Display: 	(Node Saturate) Missing Saturate input
+[2021.09.28-10.45.24:678][989]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.45.24:682][989]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.45.24:686][989]MaterialEditorStats: Error: [SM5] (Node Saturate) Missing Saturate input
+[2021.09.28-10.45.25:644][ 56]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.45.25:659][ 56]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.45.25:663][ 56]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.45.27:142][160]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.09.28-10.45.28:400][248]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.45.28:414][248]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.45.28:418][248]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.45.28:960][281]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.09.28-10.45.29:687][331]LogMaterialEditor: Saving and Compiling material M_Abyss
+[2021.09.28-10.45.30:264][331]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.45.30:306][331]LogMaterial: Display: Missing cached shader map for material M_Abyss, compiling. 
+[2021.09.28-10.45.30:344][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.09.28-10.45.30:352][331]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.28-10.45.30:911][331]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 42
+[2021.09.28-10.45.30:911][331]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2021.09.28-10.45.31:468][331]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2021.09.28-10.45.31:468][331]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2021.09.28-10.45.31:468][331]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2021.09.28-10.45.31:468][331]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2021.09.28-10.45.32:027][331]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2021.09.28-10.45.32:027][331]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2021.09.28-10.45.32:027][331]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2021.09.28-10.45.32:027][331]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2021.09.28-10.45.33:145][331]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2021.09.28-10.45.33:145][331]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2021.09.28-10.45.33:145][331]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2021.09.28-10.45.33:704][331]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2021.09.28-10.45.33:704][331]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2021.09.28-10.45.33:704][331]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2021.09.28-10.45.34:262][331]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2021.09.28-10.45.34:262][331]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2021.09.28-10.45.34:262][331]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2021.09.28-10.45.34:820][331]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2021.09.28-10.45.34:820][331]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.09.28-10.45.34:820][331]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2021.09.28-10.45.35:018][331]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.09.28-10.45.35:018][331]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.09.28-10.45.35:020][331]TextureStreamingBuild: Display: Compiling optional shaders took 4.672 seconds.
+[2021.09.28-10.45.37:863][331]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.09.28-10.45.39:798][331]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.09.28-10.45.40:915][331]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.28-10.45.41:121][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.28-10.45.42:384][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/Materials/M_Abyss" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset" SILENT=true
+[2021.09.28-10.45.42:393][331]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/M_AbyssEFA27958443CA703AAF866AAE81B8D0F.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset'
+[2021.09.28-10.45.42:438][331]AssetCheck: New page: Asset Save: M_Abyss
+[2021.09.28-10.45.42:438][331]LogContentValidation: Display: Validating Material /Game/RemediationStation/Materials/M_Abyss.M_Abyss
+[2021.09.28-10.45.42:439][331]MaterialEditorStats: Base pass shader: 162 instructions
+[2021.09.28-10.45.42:439][331]MaterialEditorStats: Base pass shader with Surface Lightmap: 183 instructions
+[2021.09.28-10.45.42:439][331]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 230 instructions
+[2021.09.28-10.45.42:439][331]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.09.28-10.45.42:439][331]MaterialEditorStats: Texture samplers: 6/16
+[2021.09.28-10.45.42:439][331]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.09.28-10.45.42:439][331]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.28-10.46.04:695][ 80]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.46.04:707][ 80]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.09.28-10.46.04:707][ 80]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.09.28-10.46.04:707][ 80]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.09.28-10.46.04:710][ 80]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.46.04:716][ 80]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.46.04:720][ 80]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.46.04:735][ 80]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.46.04:739][ 80]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.46.09:269][417]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2021.09.28-10.46.12:527][663]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.09.28-10.46.13:487][736]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2021.09.28-10.46.15:644][900]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.46.15:657][900]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.46.15:660][900]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.46.16:737][976]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.09.28-10.46.17:205][ 11]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2021.09.28-10.46.20:418][256]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.46.20:434][256]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.46.20:437][256]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.46.22:926][441]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.09.28-10.46.22:941][442]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2021.09.28-10.46.24:937][589]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.46.24:951][589]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.46.24:954][589]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.46.26:922][733]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.09.28-10.46.27:662][791]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2021.09.28-10.46.30:071][983]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.46.30:081][983]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.46.30:085][983]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.46.30:093][983]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.46.31:191][ 68]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.09.28-10.46.31:759][114]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2021.09.28-10.46.32:772][195]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.46.32:783][195]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.46.32:786][195]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.46.32:794][195]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.46.33:304][231]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.09.28-10.46.34:583][328]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2021.09.28-10.46.36:310][459]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.46.36:321][459]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.46.36:325][459]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.46.37:231][525]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.09.28-10.46.37:855][573]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2021.09.28-10.46.39:682][712]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.46.39:695][712]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.46.39:699][712]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.46.40:709][790]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.09.28-10.46.41:538][845]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2021.09.28-10.46.42:030][878]LogMaterialEditor: Saving and Compiling material M_Abyss
+[2021.09.28-10.46.42:609][878]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.46.42:655][878]LogMaterial: Display: Missing cached shader map for material M_Abyss, compiling. 
+[2021.09.28-10.46.42:692][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.09.28-10.46.42:700][878]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.28-10.46.43:260][878]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2021.09.28-10.46.43:260][878]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 41
+[2021.09.28-10.46.43:260][878]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 40
+[2021.09.28-10.46.43:816][878]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 39
+[2021.09.28-10.46.43:816][878]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2021.09.28-10.46.44:375][878]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2021.09.28-10.46.44:375][878]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2021.09.28-10.46.44:375][878]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2021.09.28-10.46.44:933][878]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 34
+[2021.09.28-10.46.44:933][878]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2021.09.28-10.46.44:933][878]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2021.09.28-10.46.45:491][878]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2021.09.28-10.46.45:491][878]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2021.09.28-10.46.45:491][878]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2021.09.28-10.46.46:049][878]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2021.09.28-10.46.46:049][878]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2021.09.28-10.46.46:049][878]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 26
+[2021.09.28-10.46.46:607][878]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2021.09.28-10.46.46:607][878]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2021.09.28-10.46.47:165][878]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2021.09.28-10.46.47:165][878]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.09.28-10.46.47:165][878]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2021.09.28-10.46.47:352][878]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.09.28-10.46.47:352][878]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.09.28-10.46.47:354][878]TextureStreamingBuild: Display: Compiling optional shaders took 4.658 seconds.
+[2021.09.28-10.46.50:373][878]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.09.28-10.46.52:372][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.28-10.46.52:976][878]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.09.28-10.46.53:534][878]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.28-10.46.54:443][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/Materials/M_Abyss" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset" SILENT=true
+[2021.09.28-10.46.54:452][878]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/M_Abyss9F86E51F48790305FE64C98BABBB3333.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset'
+[2021.09.28-10.46.54:487][878]AssetCheck: New page: Asset Save: M_Abyss
+[2021.09.28-10.46.54:487][878]LogContentValidation: Display: Validating Material /Game/RemediationStation/Materials/M_Abyss.M_Abyss
+[2021.09.28-10.46.54:488][878]MaterialEditorStats: Base pass shader: 167 instructions
+[2021.09.28-10.46.54:488][878]MaterialEditorStats: Base pass shader with Surface Lightmap: 188 instructions
+[2021.09.28-10.46.54:488][878]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 235 instructions
+[2021.09.28-10.46.54:488][878]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.09.28-10.46.54:488][878]MaterialEditorStats: Texture samplers: 6/16
+[2021.09.28-10.46.54:488][878]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.09.28-10.46.54:488][878]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.28-10.47.15:560][560]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.47.15:574][560]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.09.28-10.47.15:574][560]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.09.28-10.47.15:574][560]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.09.28-10.47.15:576][560]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.47.15:581][560]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.47.15:590][560]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.47.17:959][741]LogMaterialEditor: Saving and Compiling material M_Abyss
+[2021.09.28-10.47.18:517][741]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.09.28-10.47.18:528][741]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.47.18:571][741]LogMaterial: Display: Missing cached shader map for material M_Abyss, compiling. 
+[2021.09.28-10.47.18:610][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.09.28-10.47.18:618][741]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.28-10.47.19:180][741]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2021.09.28-10.47.19:738][741]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 40
+[2021.09.28-10.47.19:738][741]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 39
+[2021.09.28-10.47.19:738][741]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2021.09.28-10.47.20:296][741]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2021.09.28-10.47.20:296][741]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2021.09.28-10.47.20:296][741]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2021.09.28-10.47.20:854][741]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2021.09.28-10.47.20:854][741]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2021.09.28-10.47.20:854][741]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2021.09.28-10.47.21:412][741]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2021.09.28-10.47.21:412][741]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2021.09.28-10.47.21:412][741]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2021.09.28-10.47.21:970][741]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2021.09.28-10.47.21:970][741]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2021.09.28-10.47.22:528][741]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2021.09.28-10.47.22:528][741]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2021.09.28-10.47.22:528][741]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2021.09.28-10.47.23:087][741]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2021.09.28-10.47.23:591][741]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2021.09.28-10.47.23:591][741]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.09.28-10.47.23:591][741]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.09.28-10.47.23:591][741]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2021.09.28-10.47.23:593][741]TextureStreamingBuild: Display: Compiling optional shaders took 4.980 seconds.
+[2021.09.28-10.47.26:327][741]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2021.09.28-10.47.28:689][741]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.09.28-10.47.29:187][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.28-10.47.29:221][741]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.28-10.47.30:771][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/Materials/M_Abyss" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset" SILENT=true
+[2021.09.28-10.47.30:780][741]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/M_Abyss54E0764A494D6B21E934D4870805E842.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset'
+[2021.09.28-10.47.30:820][741]AssetCheck: New page: Asset Save: M_Abyss
+[2021.09.28-10.47.30:820][741]LogContentValidation: Display: Validating Material /Game/RemediationStation/Materials/M_Abyss.M_Abyss
+[2021.09.28-10.47.30:821][741]MaterialEditorStats: Base pass shader: 167 instructions
+[2021.09.28-10.47.30:822][741]MaterialEditorStats: Base pass shader with Surface Lightmap: 188 instructions
+[2021.09.28-10.47.30:822][741]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 235 instructions
+[2021.09.28-10.47.30:822][741]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.09.28-10.47.30:822][741]MaterialEditorStats: Texture samplers: 6/16
+[2021.09.28-10.47.30:822][741]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.09.28-10.47.30:822][741]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.28-10.47.59:992][ 55]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.48.00:007][ 55]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.09.28-10.48.00:007][ 55]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.09.28-10.48.00:007][ 55]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.09.28-10.48.00:007][ 55]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.48.00:012][ 55]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.48.00:020][ 55]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.48.03:373][315]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.48.03:385][315]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.48.03:389][315]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.48.03:396][315]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.48.04:308][389]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.09.28-10.48.06:387][545]LogMaterialEditor: Saving and Compiling material M_Abyss
+[2021.09.28-10.48.06:949][545]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.09.28-10.48.06:949][545]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.09.28-10.48.06:959][545]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.48.07:004][545]LogMaterial: Display: Missing cached shader map for material M_Abyss, compiling. 
+[2021.09.28-10.48.07:043][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.09.28-10.48.07:052][545]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.28-10.48.07:612][545]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2021.09.28-10.48.07:612][545]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2021.09.28-10.48.07:612][545]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2021.09.28-10.48.08:168][545]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2021.09.28-10.48.08:168][545]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2021.09.28-10.48.08:168][545]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2021.09.28-10.48.08:726][545]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2021.09.28-10.48.08:726][545]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2021.09.28-10.48.09:284][545]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2021.09.28-10.48.09:284][545]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2021.09.28-10.48.09:284][545]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2021.09.28-10.48.09:843][545]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2021.09.28-10.48.10:401][545]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2021.09.28-10.48.10:401][545]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2021.09.28-10.48.10:401][545]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2021.09.28-10.48.10:959][545]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2021.09.28-10.48.10:959][545]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2021.09.28-10.48.10:959][545]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.09.28-10.48.10:959][545]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.09.28-10.48.11:354][545]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2021.09.28-10.48.11:354][545]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.09.28-10.48.11:356][545]TextureStreamingBuild: Display: Compiling optional shaders took 4.308 seconds.
+[2021.09.28-10.48.11:372][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.09.28-10.48.13:093][545]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.09.28-10.48.14:209][545]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.09.28-10.48.14:767][545]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.09.28-10.48.15:686][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/Materials/M_Abyss" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset" SILENT=true
+[2021.09.28-10.48.15:695][545]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/M_Abyss4D373FAD4EE035E70352D3BCAB5AC897.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset'
+[2021.09.28-10.48.15:736][545]AssetCheck: New page: Asset Save: M_Abyss
+[2021.09.28-10.48.15:736][545]LogContentValidation: Display: Validating Material /Game/RemediationStation/Materials/M_Abyss.M_Abyss
+[2021.09.28-10.48.15:737][545]MaterialEditorStats: Base pass shader: 167 instructions
+[2021.09.28-10.48.15:737][545]MaterialEditorStats: Base pass shader with Surface Lightmap: 188 instructions
+[2021.09.28-10.48.15:738][545]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 235 instructions
+[2021.09.28-10.48.15:738][545]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.09.28-10.48.15:738][545]MaterialEditorStats: Texture samplers: 6/16
+[2021.09.28-10.48.15:738][545]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.09.28-10.48.15:738][545]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.28-10.48.22:451][ 78]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.48.22:463][ 78]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.09.28-10.48.22:463][ 78]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.09.28-10.48.22:463][ 78]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.09.28-10.48.22:463][ 78]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.48.22:468][ 78]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.48.22:476][ 78]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.48.26:177][363]LogMaterialEditor: Saving and Compiling material M_Abyss
+[2021.09.28-10.48.26:752][363]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.48.26:803][363]LogMaterial: Display: Missing cached shader map for material M_Abyss, compiling. 
+[2021.09.28-10.48.26:840][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.09.28-10.48.26:847][363]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.28-10.48.27:409][363]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 42
+[2021.09.28-10.48.27:409][363]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2021.09.28-10.48.27:409][363]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2021.09.28-10.48.27:409][363]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 39
+[2021.09.28-10.48.27:962][363]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2021.09.28-10.48.27:962][363]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2021.09.28-10.48.27:962][363]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2021.09.28-10.48.28:517][363]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2021.09.28-10.48.28:517][363]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2021.09.28-10.48.28:517][363]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2021.09.28-10.48.29:073][363]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2021.09.28-10.48.29:073][363]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2021.09.28-10.48.29:073][363]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2021.09.28-10.48.29:629][363]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2021.09.28-10.48.29:629][363]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2021.09.28-10.48.30:188][363]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2021.09.28-10.48.30:188][363]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2021.09.28-10.48.30:188][363]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2021.09.28-10.48.30:188][363]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2021.09.28-10.48.30:746][363]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2021.09.28-10.48.31:130][363]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2021.09.28-10.48.31:130][363]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.09.28-10.48.31:130][363]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.09.28-10.48.31:130][363]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2021.09.28-10.48.31:133][363]TextureStreamingBuild: Display: Compiling optional shaders took 4.291 seconds.
+[2021.09.28-10.48.31:149][363]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.09.28-10.48.32:874][363]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2021.09.28-10.48.33:990][363]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.09.28-10.48.34:549][363]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.28-10.48.35:582][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/Materials/M_Abyss" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset" SILENT=true
+[2021.09.28-10.48.35:591][363]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/M_AbyssA09199D045BE82C3DCC5D89B1E5126FF.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset'
+[2021.09.28-10.48.35:636][363]AssetCheck: New page: Asset Save: M_Abyss
+[2021.09.28-10.48.35:636][363]LogContentValidation: Display: Validating Material /Game/RemediationStation/Materials/M_Abyss.M_Abyss
+[2021.09.28-10.48.35:637][363]MaterialEditorStats: Base pass shader: 167 instructions
+[2021.09.28-10.48.35:637][363]MaterialEditorStats: Base pass shader with Surface Lightmap: 188 instructions
+[2021.09.28-10.48.35:637][363]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 235 instructions
+[2021.09.28-10.48.35:637][363]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.09.28-10.48.35:637][363]MaterialEditorStats: Texture samplers: 6/16
+[2021.09.28-10.48.35:637][363]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.09.28-10.48.35:637][363]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.28-10.48.49:872][507]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.48.49:882][507]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.48.49:887][507]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.09.28-10.48.49:887][507]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.09.28-10.48.49:887][507]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.09.28-10.48.49:887][507]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.48.49:895][507]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.48.51:849][657]LogMaterialEditor: Saving and Compiling material M_Abyss
+[2021.09.28-10.48.52:422][657]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.48.52:469][657]LogMaterial: Display: Missing cached shader map for material M_Abyss, compiling. 
+[2021.09.28-10.48.52:507][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.09.28-10.48.52:515][657]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.28-10.48.53:075][657]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 42
+[2021.09.28-10.48.53:075][657]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2021.09.28-10.48.53:075][657]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2021.09.28-10.48.53:075][657]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 39
+[2021.09.28-10.48.53:631][657]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2021.09.28-10.48.53:631][657]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2021.09.28-10.48.53:631][657]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2021.09.28-10.48.54:190][657]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2021.09.28-10.48.54:190][657]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2021.09.28-10.48.54:190][657]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2021.09.28-10.48.54:746][657]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 32
+[2021.09.28-10.48.54:746][657]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2021.09.28-10.48.54:746][657]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2021.09.28-10.48.55:302][657]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2021.09.28-10.48.55:302][657]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2021.09.28-10.48.55:857][657]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2021.09.28-10.48.55:857][657]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2021.09.28-10.48.55:857][657]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2021.09.28-10.48.56:416][657]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2021.09.28-10.48.56:416][657]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2021.09.28-10.48.56:800][657]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2021.09.28-10.48.56:800][657]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.09.28-10.48.56:800][657]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.09.28-10.48.56:800][657]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2021.09.28-10.48.56:802][657]TextureStreamingBuild: Display: Compiling optional shaders took 4.291 seconds.
+[2021.09.28-10.48.56:831][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.09.28-10.48.58:559][657]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2021.09.28-10.48.59:675][657]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.09.28-10.49.00:233][657]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.28-10.49.01:103][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/Materials/M_Abyss" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset" SILENT=true
+[2021.09.28-10.49.01:112][657]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/M_AbyssF9FD5BE340D041A6A99D4EBCED584386.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset'
+[2021.09.28-10.49.01:153][657]AssetCheck: New page: Asset Save: M_Abyss
+[2021.09.28-10.49.01:153][657]LogContentValidation: Display: Validating Material /Game/RemediationStation/Materials/M_Abyss.M_Abyss
+[2021.09.28-10.49.01:154][657]MaterialEditorStats: Base pass shader: 167 instructions
+[2021.09.28-10.49.01:154][657]MaterialEditorStats: Base pass shader with Surface Lightmap: 188 instructions
+[2021.09.28-10.49.01:154][657]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 235 instructions
+[2021.09.28-10.49.01:154][657]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.09.28-10.49.01:154][657]MaterialEditorStats: Texture samplers: 6/16
+[2021.09.28-10.49.01:154][657]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.09.28-10.49.01:154][657]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.28-10.49.09:033][225]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/RemediationStation/Materials/M_AbyssLandscape.M_AbyssLandscape
+[2021.09.28-10.49.09:035][225]LogMaterial: Display: Missing cached shader map for material M_AbyssLandscape, compiling. 
+[2021.09.28-10.49.09:097][225]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.09.28-10.49.09:102][225]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.09.28-10.49.09:105][225]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.09.28-10.49.09:105][225]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.09.28-10.49.09:105][225]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.09.28-10.49.09:105][225]LogMaterial: Display: Missing cached shader map for material M_AbyssLandscape, compiling. 
+[2021.09.28-10.49.09:114][225]LogMaterial: Display: Missing cached shader map for material M_AbyssLandscape, compiling. 
+[2021.09.28-10.49.09:128][225]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.09.28-10.49.09:132][225]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.09.28-10.49.13:603][556]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.09.28-10.49.14:034][588]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.09.28-10.49.14:376][615]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2021.09.28-10.49.19:689][ 24]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 16
+[2021.09.28-10.49.20:049][ 51]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 15
+[2021.09.28-10.49.20:419][ 75]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2021.09.28-10.49.20:802][102]LogMaterial: Display: Missing cached shader map for material M_AbyssLandscape, compiling. 
+[2021.09.28-10.49.20:820][102]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.09.28-10.49.20:823][102]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.09.28-10.49.22:615][239]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2021.09.28-10.49.24:528][385]LogMaterial: Display: Missing cached shader map for material M_AbyssLandscape, compiling. 
+[2021.09.28-10.49.24:541][385]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.09.28-10.49.24:545][385]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.09.28-10.49.27:859][642]LogMaterial: Display: Missing cached shader map for material M_AbyssLandscape, compiling. 
+[2021.09.28-10.49.27:871][642]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.09.28-10.49.27:874][642]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.09.28-10.49.28:563][695]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2021.09.28-10.49.28:789][712]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2021.09.28-10.49.31:592][931]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2021.09.28-10.49.32:441][  2]LogMaterial: Display: Missing cached shader map for material M_AbyssLandscape, compiling. 
+[2021.09.28-10.49.32:457][  2]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.09.28-10.49.32:460][  2]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.09.28-10.49.32:468][  2]LogMaterial: Display: Missing cached shader map for material M_AbyssLandscape, compiling. 
+[2021.09.28-10.49.34:528][164]LogMaterial: Display: Missing cached shader map for material M_AbyssLandscape, compiling. 
+[2021.09.28-10.49.34:543][164]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.09.28-10.49.34:547][164]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.09.28-10.49.34:555][164]LogMaterial: Display: Missing cached shader map for material M_AbyssLandscape, compiling. 
+[2021.09.28-10.49.35:568][240]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.09.28-10.49.35:962][267]LogMaterialEditor: Saving and Compiling material M_AbyssLandscape
+[2021.09.28-10.49.36:530][267]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 18
+[2021.09.28-10.49.36:530][267]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2021.09.28-10.49.36:541][267]LogMaterial: Display: Missing cached shader map for material M_AbyssLandscape, compiling. 
+[2021.09.28-10.49.36:586][267]LogMaterial: Display: Missing cached shader map for material M_AbyssLandscape, compiling. 
+[2021.09.28-10.49.36:629][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.09.28-10.49.36:636][267]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.28-10.49.37:195][267]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2021.09.28-10.49.37:195][267]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2021.09.28-10.49.37:195][267]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2021.09.28-10.49.37:751][267]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2021.09.28-10.49.37:751][267]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2021.09.28-10.49.37:751][267]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2021.09.28-10.49.38:310][267]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2021.09.28-10.49.38:310][267]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2021.09.28-10.49.38:310][267]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2021.09.28-10.49.38:868][267]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2021.09.28-10.49.38:868][267]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2021.09.28-10.49.38:868][267]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2021.09.28-10.49.39:426][267]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2021.09.28-10.49.39:426][267]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2021.09.28-10.49.39:426][267]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 25
+[2021.09.28-10.49.39:984][267]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2021.09.28-10.49.40:542][267]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2021.09.28-10.49.40:542][267]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.09.28-10.49.40:542][267]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.09.28-10.49.40:642][267]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 13
+[2021.09.28-10.49.40:642][267]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.09.28-10.49.40:643][267]TextureStreamingBuild: Display: Compiling optional shaders took 4.011 seconds.
+[2021.09.28-10.49.40:660][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.09.28-10.49.42:374][267]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.09.28-10.49.43:490][267]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.09.28-10.49.44:048][267]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.09.28-10.49.44:942][267]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/M_AbyssLandscape83635825457E06FE50B18D96C6AD9534.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_AbyssLandscape.uasset'
+[2021.09.28-10.49.44:968][267]AssetCheck: New page: Asset Save: M_AbyssLandscape
+[2021.09.28-10.49.44:969][267]LogContentValidation: Display: Validating Material /Game/RemediationStation/Materials/M_AbyssLandscape.M_AbyssLandscape
+[2021.09.28-10.49.44:970][267]MaterialEditorStats: Base pass shader: 167 instructions
+[2021.09.28-10.49.44:970][267]MaterialEditorStats: Base pass shader with Surface Lightmap: 188 instructions
+[2021.09.28-10.49.44:970][267]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 235 instructions
+[2021.09.28-10.49.44:970][267]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.09.28-10.49.44:970][267]MaterialEditorStats: Texture samplers: 6/16
+[2021.09.28-10.49.44:970][267]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.09.28-10.49.44:970][267]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.28-10.50.02:924][754]LogMaterial: Display: Missing cached shader map for material M_AbyssLandscape, compiling. 
+[2021.09.28-10.50.02:939][754]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.09.28-10.50.02:939][754]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.09.28-10.50.02:939][754]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.09.28-10.50.02:941][754]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.09.28-10.50.02:946][754]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.09.28-10.50.02:954][754]LogMaterial: Display: Missing cached shader map for material M_AbyssLandscape, compiling. 
+[2021.09.28-10.50.05:135][928]LogMaterialEditor: Saving and Compiling material M_AbyssLandscape
+[2021.09.28-10.50.05:706][928]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 19
+[2021.09.28-10.50.05:716][928]LogMaterial: Display: Missing cached shader map for material M_AbyssLandscape, compiling. 
+[2021.09.28-10.50.05:770][928]LogMaterial: Display: Missing cached shader map for material M_AbyssLandscape, compiling. 
+[2021.09.28-10.50.05:808][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.09.28-10.50.05:816][928]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.28-10.50.06:378][928]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2021.09.28-10.50.06:378][928]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2021.09.28-10.50.06:378][928]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 39
+[2021.09.28-10.50.06:936][928]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2021.09.28-10.50.06:936][928]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2021.09.28-10.50.06:936][928]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2021.09.28-10.50.06:936][928]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2021.09.28-10.50.07:494][928]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2021.09.28-10.50.07:494][928]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2021.09.28-10.50.07:494][928]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2021.09.28-10.50.08:052][928]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2021.09.28-10.50.08:052][928]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2021.09.28-10.50.08:052][928]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2021.09.28-10.50.08:610][928]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2021.09.28-10.50.09:169][928]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2021.09.28-10.50.09:169][928]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2021.09.28-10.50.09:727][928]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 25
+[2021.09.28-10.50.09:727][928]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2021.09.28-10.50.09:727][928]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2021.09.28-10.50.09:727][928]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.09.28-10.50.10:067][928]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 21
+[2021.09.28-10.50.10:067][928]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.09.28-10.50.10:067][928]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2021.09.28-10.50.10:068][928]TextureStreamingBuild: Display: Compiling optional shaders took 4.257 seconds.
+[2021.09.28-10.50.10:090][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.09.28-10.50.11:808][928]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.09.28-10.50.12:924][928]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2021.09.28-10.50.13:482][928]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.28-10.50.14:405][928]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/M_AbyssLandscape02C6BE4F4E4182382FB64B9B0AD67784.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_AbyssLandscape.uasset'
+[2021.09.28-10.50.14:434][928]AssetCheck: New page: Asset Save: M_AbyssLandscape
+[2021.09.28-10.50.14:434][928]LogContentValidation: Display: Validating Material /Game/RemediationStation/Materials/M_AbyssLandscape.M_AbyssLandscape
+[2021.09.28-10.50.14:435][928]MaterialEditorStats: Base pass shader: 167 instructions
+[2021.09.28-10.50.14:435][928]MaterialEditorStats: Base pass shader with Surface Lightmap: 188 instructions
+[2021.09.28-10.50.14:435][928]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 235 instructions
+[2021.09.28-10.50.14:436][928]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.09.28-10.50.14:436][928]MaterialEditorStats: Texture samplers: 6/16
+[2021.09.28-10.50.14:436][928]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.09.28-10.50.14:436][928]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.28-10.50.42:982][180]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/RemediationStation/Materials/M_AbyssRocks.M_AbyssRocks
+[2021.09.28-10.52.16:431][227]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.52.16:444][227]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.09.28-10.52.16:444][227]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.09.28-10.52.16:444][227]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.09.28-10.52.16:446][227]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.52.16:451][227]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.52.16:460][227]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.52.18:674][389]LogMaterialEditor: Saving and Compiling material M_Abyss
+[2021.09.28-10.52.19:248][389]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.52.19:300][389]LogMaterial: Display: Missing cached shader map for material M_Abyss, compiling. 
+[2021.09.28-10.52.20:454][389]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2021.09.28-10.52.20:454][389]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2021.09.28-10.52.20:454][389]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 38
+[2021.09.28-10.52.20:454][389]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2021.09.28-10.52.20:455][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.09.28-10.52.20:461][389]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.28-10.52.21:022][389]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2021.09.28-10.52.21:022][389]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2021.09.28-10.52.21:022][389]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2021.09.28-10.52.21:022][389]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2021.09.28-10.52.21:579][389]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2021.09.28-10.52.21:579][389]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2021.09.28-10.52.21:579][389]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2021.09.28-10.52.22:133][389]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 31
+[2021.09.28-10.52.22:133][389]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2021.09.28-10.52.22:690][389]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2021.09.28-10.52.22:690][389]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 28
+[2021.09.28-10.52.22:690][389]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2021.09.28-10.52.23:246][389]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2021.09.28-10.52.23:246][389]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2021.09.28-10.52.23:246][389]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2021.09.28-10.52.23:805][389]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 23
+[2021.09.28-10.52.24:145][389]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 22
+[2021.09.28-10.52.24:145][389]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.09.28-10.52.24:145][389]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.09.28-10.52.24:145][389]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2021.09.28-10.52.24:153][389]TextureStreamingBuild: Display: Compiling optional shaders took 3.697 seconds.
+[2021.09.28-10.52.24:174][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.28-10.52.25:905][389]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2021.09.28-10.52.27:021][389]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.09.28-10.52.27:579][389]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.28-10.52.28:838][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/Materials/M_Abyss" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset" SILENT=true
+[2021.09.28-10.52.28:847][389]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/M_Abyss497D6BD245D0B47291AB03ABF5C2DAFF.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset'
+[2021.09.28-10.52.28:885][389]AssetCheck: New page: Asset Save: M_Abyss
+[2021.09.28-10.52.28:885][389]LogContentValidation: Display: Validating Material /Game/RemediationStation/Materials/M_Abyss.M_Abyss
+[2021.09.28-10.52.28:886][389]MaterialEditorStats: Base pass shader: 167 instructions
+[2021.09.28-10.52.28:886][389]MaterialEditorStats: Base pass shader with Surface Lightmap: 188 instructions
+[2021.09.28-10.52.28:886][389]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 235 instructions
+[2021.09.28-10.52.28:886][389]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.09.28-10.52.28:887][389]MaterialEditorStats: Texture samplers: 6/16
+[2021.09.28-10.52.28:887][389]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.09.28-10.52.28:887][389]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.28-10.52.48:787][972]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.52.48:801][972]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.52.48:806][972]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.09.28-10.52.48:806][972]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.09.28-10.52.48:806][972]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.09.28-10.52.48:806][972]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.52.48:814][972]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.52.51:790][192]LogMaterialEditor: Saving and Compiling material M_Abyss
+[2021.09.28-10.52.52:353][192]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 19
+[2021.09.28-10.52.52:364][192]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.52.52:416][192]LogMaterial: Display: Missing cached shader map for material M_Abyss, compiling. 
+[2021.09.28-10.52.52:549][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.09.28-10.52.52:554][192]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.28-10.52.53:117][192]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2021.09.28-10.52.53:117][192]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 40
+[2021.09.28-10.52.53:675][192]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 39
+[2021.09.28-10.52.53:675][192]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2021.09.28-10.52.53:675][192]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2021.09.28-10.52.54:233][192]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2021.09.28-10.52.54:233][192]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 35
+[2021.09.28-10.52.54:233][192]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2021.09.28-10.52.54:791][192]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 33
+[2021.09.28-10.52.54:791][192]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 32
+[2021.09.28-10.52.54:791][192]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2021.09.28-10.52.55:349][192]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2021.09.28-10.52.55:349][192]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2021.09.28-10.52.55:349][192]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2021.09.28-10.52.55:907][192]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2021.09.28-10.52.56:465][192]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 26
+[2021.09.28-10.52.56:465][192]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2021.09.28-10.52.56:465][192]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2021.09.28-10.52.57:023][192]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2021.09.28-10.52.57:023][192]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2021.09.28-10.52.57:023][192]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 21
+[2021.09.28-10.52.57:287][192]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.09.28-10.52.57:287][192]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2021.09.28-10.52.57:289][192]TextureStreamingBuild: Display: Compiling optional shaders took 4.739 seconds.
+[2021.09.28-10.52.57:305][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.09.28-10.52.59:579][192]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 5
+[2021.09.28-10.53.00:695][192]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.09.28-10.53.00:695][192]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.28-10.53.01:784][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/Materials/M_Abyss" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset" SILENT=true
+[2021.09.28-10.53.01:793][192]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/M_Abyss4E307C504CAE9C8178358588BCD5C4A4.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset'
+[2021.09.28-10.53.01:835][192]AssetCheck: New page: Asset Save: M_Abyss
+[2021.09.28-10.53.01:835][192]LogContentValidation: Display: Validating Material /Game/RemediationStation/Materials/M_Abyss.M_Abyss
+[2021.09.28-10.53.01:836][192]MaterialEditorStats: Base pass shader: 166 instructions
+[2021.09.28-10.53.01:836][192]MaterialEditorStats: Base pass shader with Surface Lightmap: 187 instructions
+[2021.09.28-10.53.01:836][192]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 234 instructions
+[2021.09.28-10.53.01:836][192]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.09.28-10.53.01:836][192]MaterialEditorStats: Texture samplers: 6/16
+[2021.09.28-10.53.01:836][192]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.09.28-10.53.01:836][192]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.28-10.53.16:698][389]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.53.16:712][389]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.09.28-10.53.16:712][389]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.09.28-10.53.16:712][389]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.09.28-10.53.16:713][389]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2021.09.28-10.53.16:718][389]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2021.09.28-10.53.16:726][389]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.53.18:819][538]LogMaterialEditor: Saving and Compiling material M_Abyss
+[2021.09.28-10.53.19:395][538]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.28-10.53.19:422][538]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2021.09.28-10.53.19:448][538]LogMaterial: Display: Missing cached shader map for material M_Abyss, compiling. 
+[2021.09.28-10.53.19:579][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.09.28-10.53.19:585][538]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.09.28-10.53.20:145][538]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2021.09.28-10.53.20:145][538]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2021.09.28-10.53.20:145][538]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 39
+[2021.09.28-10.53.20:701][538]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2021.09.28-10.53.20:701][538]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2021.09.28-10.53.20:701][538]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 36
+[2021.09.28-10.53.20:701][538]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2021.09.28-10.53.21:259][538]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2021.09.28-10.53.21:259][538]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 33
+[2021.09.28-10.53.21:815][538]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2021.09.28-10.53.21:815][538]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2021.09.28-10.53.21:815][538]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 30
+[2021.09.28-10.53.22:370][538]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2021.09.28-10.53.22:370][538]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2021.09.28-10.53.22:926][538]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2021.09.28-10.53.22:926][538]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2021.09.28-10.53.22:926][538]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2021.09.28-10.53.22:926][538]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2021.09.28-10.53.23:481][538]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 23
+[2021.09.28-10.53.23:481][538]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2021.09.28-10.53.23:481][538]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2021.09.28-10.53.23:668][538]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 13
+[2021.09.28-10.53.23:668][538]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2021.09.28-10.53.23:670][538]TextureStreamingBuild: Display: Compiling optional shaders took 4.090 seconds.
+[2021.09.28-10.53.23:686][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2021.09.28-10.53.26:521][538]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.09.28-10.53.27:079][538]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.28-10.53.28:372][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/Materials/M_Abyss" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset" SILENT=true
+[2021.09.28-10.53.28:381][538]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/M_AbyssF7B07437454C0BA4AC83EF9C1C8FC60E.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset'
+[2021.09.28-10.53.28:433][538]AssetCheck: New page: Asset Save: M_Abyss
+[2021.09.28-10.53.28:433][538]LogContentValidation: Display: Validating Material /Game/RemediationStation/Materials/M_Abyss.M_Abyss
+[2021.09.28-10.53.28:435][538]MaterialEditorStats: Base pass shader: 166 instructions
+[2021.09.28-10.53.28:435][538]MaterialEditorStats: Base pass shader with Surface Lightmap: 187 instructions
+[2021.09.28-10.53.28:435][538]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 234 instructions
+[2021.09.28-10.53.28:435][538]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.09.28-10.53.28:435][538]MaterialEditorStats: Texture samplers: 6/16
+[2021.09.28-10.53.28:435][538]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.09.28-10.53.28:435][538]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.09.28-10.54.35:651][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.09.28-10.54.35:750][100]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default8F842D054F49E0E279914BBFC4FCC613.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.28-10.54.35:784][100]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData0ADED56A46ABD1C3B4E8AC8871E05B2F.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.28-10.54.35:808][100]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.28-10.54.35:808][100]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.28-10.54.35:808][100]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData

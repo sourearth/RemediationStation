@@ -3504,3 +3504,19 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.28-10.59.11:804][ 75]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
 [2021.09.28-10.59.12:568][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/Materials/M_Abyss" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset" SILENT=true
 [2021.09.28-10.59.12:576][ 75]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/M_AbyssDDB49A8C4C092762B849E4B621B19AF3.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_Abyss.uasset'
+[2021.09.28-10.59.12:627][ 75]AssetCheck: New page: Asset Save: M_Abyss
+[2021.09.28-10.59.12:627][ 75]LogContentValidation: Display: Validating Material /Game/RemediationStation/Materials/M_Abyss.M_Abyss
+[2021.09.28-10.59.39:887][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.28-10.59.41:228][275]LogSlate: Window 'Save Content' being destroyed
+[2021.09.28-10.59.41:266][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RemediationStation/Materials/M_AbyssRocks" FILE="D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_AbyssRocks.uasset" SILENT=true
+[2021.09.28-10.59.41:273][275]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/M_AbyssRocks9E1DE23F469FB35D1602BEA31468C4D3.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/M_AbyssRocks.uasset'
+[2021.09.28-10.59.41:301][275]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/T_Planes_BCFFCA6AD94A9E8F313A368DA455DBEADE.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/RemediationStation/Materials/PaintingTex/T_Planes_BC.uasset'
+[2021.09.28-10.59.41:320][275]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.28-10.59.41:320][275]LogContentValidation: Display: Validating Texture2D /Game/RemediationStation/Materials/PaintingTex/T_Planes_BC.T_Planes_BC
+[2021.09.28-10.59.41:320][275]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/RemediationStation/Materials/M_AbyssRocks.M_AbyssRocks
+[2021.09.28-10.59.42:578][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.09.28-10.59.42:673][362]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default594115FC47DEDC621D27AE8EF2E0C6DB.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default.umap'
+[2021.09.28-10.59.42:703][362]LogSavePackage: Moving 'D:/Louise/RemediationStation/3DWork/Remediation/Saved/Minimal_Default_BuiltData3FA6583C458B04EEE351E6A8E649005A.tmp' to 'D:/Louise/RemediationStation/3DWork/Remediation/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2021.09.28-10.59.42:725][362]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.28-10.59.42:725][362]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2021.09.28-10.59.42:725][362]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
